@@ -1,0 +1,15 @@
+{
+  "name": "w3c-glossary",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w3c-html-ig-zh/w3c-glossary.git"
+  },
+  "devDependencies": {
+    "mustache": "*",
+    "fs-extra": "*"
+  },
+  "scripts": {
+    "build": "node lib/build.js"
+  }
+}
