@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>W3CTranslation / Glossary</title>
+</head>
+<body>
+
+  <!-- This page is built from `data/glossary.js` -->
+
+  <h1>W3CTranslation / Glossary</h1>
+
+  <h2>Contents</h2>
+  <ul>
+    <li>
+      <a href="#W3C_Glossary_.E5.B0.8D.E7.85.A7.E8.A1.A8"><span class="toctext">W3C Glossary 對照表</span></a>
+      <ul>
+        {{#initialIndex}}
+        <li><a href="#{{key}}"><span class="toctext">{{key}}</span></a></li>
+        {{/initialIndex}}
+      </ul>
+    </li>
+  </ul>
+
+  <h2> W3C Glossary 對照表 </h2>
+  <p><br />
+    Ref: <a href="http://www.w3c.org.hk/glossary/" class='external free' title="http://www.w3c.org.hk/glossary/" rel="nofollow">http://www.w3c.org.hk/glossary/</a> and <a href="http://www.w3.org/2003/glossary/" class='external free' title="http://www.w3.org/2003/glossary/" rel="nofollow">http://www.w3.org/2003/glossary/</a>
+  </p>
+  <p>註：術語可能有多種翻譯方式，我們將推薦使用的術語放到最前面。</p>
+
+  {{#initialIndex}}
+  <div>
+    <a name="{{key}}"></a>
+    <h3> {{key}} </h3>
+    <table border="1" cellpadding="5" cellspacing="0" align="center" width="100%">
+      <tr>
+        <th style="background:#efefef; width: 50%;"> Terms in English
+        </th>
+        <th style="background:#add8e6;"> 简体中文词汇
+        </th>
+        <th style="background:#ffdead;"> 繁體中文詞彙
+        </th>
+      </tr>
+      <tr>
+        <td colspan="3" style="background: #9999cc; font-size: 1.5em;">{{key}}</td>
+      </tr>
+      {{#wordList}}
+      <tr>
+        <td>{{{en}}}</td>
+        <td>{{{simplified}}}</td>
+        <td>{{{traditional}}}</td>
+      </tr>
+      {{/wordList}}
+    </table>
+  </div>
+  {{/initialIndex}}
+
+</body>
+</html>
