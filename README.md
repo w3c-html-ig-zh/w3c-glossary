@@ -7,6 +7,7 @@ W3C Glossary Translation
 
 ### 准备工作
 
+0. 首先确保您有正常工作的 Node.js 和 NPM 环境
 1. 把这个项目 `fork` 到个人的空间
 2. 把个人空间的项目克隆到本地
 3. 运行 `npm install` 安装必要的库
