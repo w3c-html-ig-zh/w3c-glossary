@@ -10,6 +10,7 @@
     "fs-extra": "*"
   },
   "scripts": {
-    "build": "node lib/build.js"
+    "build": "node lib/build.js",
+    "import": "node lib/merge.js"
   }
 }
