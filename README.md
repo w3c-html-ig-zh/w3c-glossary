@@ -14,7 +14,7 @@ W3C Glossary Translation
 
 ### 修改词汇表
 
-打开 `data` 目录下的 `glossary.json` 文件，增/删/改相应的字段。
+打开 `data` 目录下的 `glossary.yaml` 文件，增/删/改相应的字段。
 
 ### 生成页面
 

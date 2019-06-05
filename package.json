@@ -7,7 +7,8 @@
   },
   "devDependencies": {
     "mustache": "*",
-    "fs-extra": "*"
+    "fs-extra": "*",
+    "yaml": "*"
   },
   "scripts": {
     "build": "node lib/build.js",
