@@ -1,0 +1,3464 @@
+- en: Masking
+  simplified: '<a href="http://www.chinaw3c.org/archives/424/" target="_blank">(CSS) 遮盖</a>'
+  traditional: ''
+- en: abstract module
+  simplified: 抽象模块
+  traditional: 抽象模組
+- en: intensional
+  simplified: 内涵的
+  traditional: 內涵的
+- en: access control
+  simplified: 访问控制
+  traditional: 存取控制
+- en: access
+  simplified: '访问, 存取'
+  traditional: 存取、訪問
+- en: AC Meeting
+  simplified: >-
+    <a href="http://www.chinaw3c.org/member-meetings.html#ac"
+    target="_blank">W3C AC会议，顾问委员会会议</a>
+  traditional: ''
+- en: instance of
+  simplified: （某个类的）实例
+  traditional: (某類別的) 實體
+- en: accessibility information
+  simplified: '可访问性信息, (信息)无障碍信息'
+  traditional: 親和力資訊
+- en: access mechanism
+  simplified: '访问机制, 准入机制，存取机制'
+  traditional: 存取機制
+- en: access right
+  simplified: 访问权限
+  traditional: 存取權限
+- en: access control information
+  simplified: 访问控制信息
+  traditional: 存取控制資訊
+- en: 'properties, values, and defaults'
+  simplified: 属性、值、缺省值
+  traditional: 屬性、數值和預設
+- en: ACSS (Audio cascading style sheets)
+  simplified: 音频层叠样式表
+  traditional: ACSS (Audio CSS ，音訊階層樣規。這是個古早的講法，目前已改用 Aural CSS 這個詞彙，即聽覺階層樣規，縮寫仍然是 ACSS)
+- en: accessible
+  simplified: 无障碍的，可访问的
+  traditional: 無障礙的、可訪問的
+- en: accessible rich internet applications
+  simplified: 可访问富互联网应用
+  traditional: ''
+- en: accessible authoring practice
+  simplified: 无障碍的创作实践，可访问的创作实践
+  traditional: 實踐無障礙創作
+- en: accessiblity
+  simplified: 可访问性，（信息）无障碍
+  traditional: 親和力
+- en: accessibility problem
+  simplified: 可访问性问题，(信息)无障碍问题
+  traditional: 親和力問題、無障礙網頁問題
+- en: Navigation Error Logging
+  simplified: '<a href="http://www.chinaw3c.org/archives/425/" target="_blank">导航错误记录</a>'
+  traditional: ''
+- en: additional characters
+  simplified: 附加字符
+  traditional: 附加字符
+- en: active grammar
+  simplified: 可用文法
+  traditional: 可用文法
+- en: ACSS (Audio/Aural cascading style sheets)
+  simplified: >-
+    <a href="http://www.w3.org/TR/WD-acss-970630" target="_blank">音频层叠样式表,
+    听觉层叠样式表</a>
+  traditional: '音訊階層樣規, 聽覺階層樣規'
+- en: activity
+  simplified: 活动，标准计划（W3C标准工作分类时）
+  traditional: 活動
+- en: actor
+  simplified: 角色
+  traditional: 角色
+- en: activate
+  simplified: 激活
+  traditional: 啟用
+- en: adaptation
+  simplified: 适配，适应
+  traditional: 適應、調節
+- en: adaptation preferences
+  simplified: >-
+    <a
+    href="http://www.w3.org/TR/2003/WD-di-gloss-20030825/#def-adaptation-preferences"
+    target="_blank">适配偏好，适应偏好</a>
+  traditional: 適配偏好
+- en: qualified name
+  simplified: 合格名称
+  traditional: 合宜名稱
+- en: alpha table
+  simplified: alpha索引表
+  traditional: alpha 索引表
+- en: advisory board
+  simplified: '<a href="http://www.w3.org/2002/ab/" target="_blank">(W3C的)顾问团，顾问委员会常务会议</a>'
+  traditional: 顧問團、諮詢委員會
+- en: advisory committee
+  simplified: 顾问委员会
+  traditional: 諮詢委員會
+- en: age
+  simplified: 寿命
+  traditional: 壽命
+- en: agent
+  simplified: 代理（如User Agent）
+  traditional: 代理人
+- en: alert
+  simplified: 警告
+  traditional: 警告
+- en: alpha
+  simplified: alpha（一种压缩算法）
+  traditional: alpha
+- en: alpha compaction
+  simplified: alpha压缩
+  traditional: alpha 壓縮
+- en: alpha separation
+  simplified: alpha分割
+  traditional: alpha 分色
+- en: notification
+  simplified: '<a href="http://www.chinaw3c.org/archives/271/" target="_blank">通知</a>'
+  traditional: ''
+- en: apache
+  simplified: apache （开源社区、HTTP服务器）
+  traditional: apache
+- en: amaya
+  simplified: '<a href="http://www.w3.org/Amaya/" target="_blank">amaya</a>'
+  traditional: amaya
+- en: ancestor
+  simplified: 祖先，先辈节点
+  traditional: 祖先、前輩結點
+- en: Ambient Light
+  simplified: '<a href="http://www.chinaw3c.org/archives/546/" target="_blank">背景光</a>'
+  traditional: ''
+- en: anchor
+  simplified: 锚点
+  traditional: 錨點
+- en: ancillary chunk
+  simplified: 辅助数据块
+  traditional: 輔助資訊
+- en: animation
+  simplified: 动画
+  traditional: 動畫
+- en: alternative information
+  simplified: 可选信息，替代信息
+  traditional: 替代資訊
+- en: annotation
+  simplified: '<a href="http://www.chinaw3c.org/archives/567/" target="_blank">注释，批注，标注</a>'
+  traditional: 評註、註釋、標注
+- en: anonymity
+  simplified: 匿名
+  traditional: 匿名
+- en: antecedent
+  simplified: 前提
+  traditional: 推論、前提
+- en: RDF (Resource description framework)
+  simplified: RDF（资源描述框架）
+  traditional: RDF (資源描述框架)
+- en: assistive technology
+  simplified: 辅助技术
+  traditional: 輔助技術
+- en: applet
+  simplified: 'applet,（Java）小程序'
+  traditional: applet
+- en: application
+  simplified: 应用，应用程序
+  traditional: 應用程式、應用
+- en: application personalization
+  simplified: 应用个性化，应用程序个性化
+  traditional: 應用程式個人化
+- en: >-
+    application programming interface (API), conventional input/output/device
+    API
+  simplified: 应用编程接口（API），常用输入/输出/设备API
+  traditional: 應用程式介面 (API)、常見輸入/輸出/裝置 API
+- en: arc
+  simplified: 弧
+  traditional: 弧
+- en: architecture
+  simplified: '架构, 体系结构'
+  traditional: 架構、結構、體系
+- en: argument
+  simplified: 参数
+  traditional: 參數
+- en: artifact
+  simplified: 人工制品，工件
+  traditional: 工藝品、物件
+- en: ASCII art
+  simplified: ASCII 艺术
+  traditional: ASCII 藝術
+- en: ASR (Automatic speech recognition)
+  simplified: ASR（自动语音识别）
+  traditional: ASR (自動語音辨識)
+- en: assertion
+  simplified: 断言，声明
+  traditional: 宣稱、斷言、恆真句
+- en: rendering
+  simplified: 渲染
+  traditional: 顯示
+- en: audio description
+  simplified: 音频描述
+  traditional: 音訊描述
+- en: asynchronous exchange
+  simplified: 异步交换
+  traditional: 非同步交換
+- en: at user option
+  simplified: 用户可选择的
+  traditional: 用戶可選擇的
+- en: atomic
+  simplified: 原子
+  traditional: 原子
+- en: atomic test
+  simplified: 原子测试
+  traditional: 原子測試
+- en: attribute
+  simplified: >-
+    <a href="http://www.w3.org/TR/html5/syntax.html#syntax-attributes"
+    target="_blank">属性</a>
+  traditional: 屬性
+- en: attribute name
+  simplified: 属性名，属性名称
+  traditional: 屬性名稱
+- en: attribute specification
+  simplified: 属性规格，属性明细
+  traditional: 屬性規格、屬性明細
+- en: asynchronous
+  simplified: 异步
+  traditional: 非同步
+- en: attribute value
+  simplified: 属性值
+  traditional: 屬性值
+- en: 'attribute, or CC/PP attribute'
+  simplified: CC/PP属性
+  traditional: CC/PP 屬性
+- en: attribute-list declarations
+  simplified: 属性列表声明
+  traditional: 屬性列表宣告
+- en: audio
+  simplified: '<a href="http://en.wikipedia.org/wiki/Audio" target="_blank">音频</a>'
+  traditional: 音訊，音頻
+- en: message receiver
+  simplified: 消息接收者
+  traditional: 訊息接收者
+- en: backward compatible
+  simplified: 向下兼容
+  traditional: 向下相容
+- en: audio-only representation
+  simplified: 仅以音频呈现
+  traditional: 僅呈現音訊
+- en: audit guard
+  simplified: 审计防护
+  traditional: 稽核防護機制
+- en: auditory description
+  simplified: 听觉描述
+  traditional: 聽覺描述
+- en: authentication
+  simplified: 身份认证
+  traditional: 身份驗證
+- en: author
+  simplified: 作者
+  traditional: 作者
+- en: author styles
+  simplified: 作者样式
+  traditional: 作者樣式
+- en: authoring
+  simplified: 创作，编写
+  traditional: 創作
+- en: audio track
+  simplified: 音轨
+  traditional: 音軌
+- en: authoring tool
+  simplified: 创作工具，编写工具
+  traditional: 創作工具
+- en: authorization
+  simplified: 授权
+  traditional: 授權
+- en: axis
+  simplified: 坐标轴
+  traditional: 座標軸
+- en: back link
+  simplified: 返回链接
+  traditional: 返回鏈結
+- en: background image interference
+  simplified: 背景图像干扰
+  traditional: 背景圖像干擾
+- en: modularization
+  simplified: 模块化
+  traditional: 模組化
+- en: byte
+  simplified: 字节
+  traditional: 位元組
+- en: baseline
+  simplified: 基线
+  traditional: 基線
+- en: binding
+  simplified: 绑定
+  traditional: 繫結
+- en: binding expression
+  simplified: 绑定表达式
+  traditional: 繫結表達式
+- en: box model
+  simplified: >-
+    <a href="http://www.w3.org/TR/CSS21/box.html"
+    target="_blank">(CSS)盒模型、盒子模型</a>
+  traditional: 盒模型、盒子模型
+- en: border
+  simplified: >-
+    <a href="http://www.w3.org/TR/CSS21/box.html#box-border-area"
+    target="_blank">(CSS)边框</a>
+  traditional: 邊框，框線
+- en: blending
+  simplified: （图像）混合
+  traditional: ''
+- en: beacon
+  simplified: '<a href="http://www.chinaw3c.org/archives/549/" target="_blank">信标</a>'
+  traditional: ''
+- en: bit depth
+  simplified: 位深度，色彩深度
+  traditional: 色彩深度
+- en: black box
+  simplified: 黑盒，黑箱
+  traditional: 黑箱
+- en: bopomofo
+  simplified: 注音符号
+  traditional: 注音符號
+- en: bot
+  simplified: 机器人
+  traditional: 機器人
+- en: bounding box
+  simplified: 边框
+  traditional: 邊界框、區域框
+- en: box
+  simplified: 框，盒
+  traditional: 框
+- en: braille
+  simplified: 点字
+  traditional: 點字
+- en: bridge
+  simplified: 桥接，桥梁
+  traditional: 橋接器
+- en: base text
+  simplified: 基础文本
+  traditional: 基礎文本
+- en: browser
+  simplified: 浏览器
+  traditional: 瀏覽器
+- en: button
+  simplified: 按钮
+  traditional: 按鈕
+- en: namespace name
+  simplified: 命名空间名
+  traditional: 命名空間名稱
+- en: character data (CDATA)
+  simplified: 字符数据（CDATA）
+  traditional: 字符資料 (CDATA)
+- en: cache
+  simplified: 缓存
+  traditional: 快取、cache
+- en: cacheable
+  simplified: 可缓存的
+  traditional: 可快取的、可緩衝的
+- en: Candidate Recommendation (CR)
+  simplified: 候选推荐标准（CR），备选推荐标准
+  traditional: 候選推薦標準 (CR)
+- en: Capability URLs
+  simplified: '<a href="http://www.chinaw3c.org/archives/434/" target="_blank">功能性URL</a>'
+  traditional: ''
+- en: capability
+  simplified: 能力
+  traditional: 性能、容量
+- en: captions
+  simplified: 标题，说明，字幕
+  traditional: 標題、說明、字幕
+- en: card
+  simplified: 卡片，卡
+  traditional: 卡片
+- en: cascading style sheet
+  simplified: 层叠样式表（CSS），级联样式单
+  traditional: 階層樣規(CSS)、階層樣式表(CSS)
+- en: catch element
+  simplified: catch 元素
+  traditional: catch 元素
+- en: CC/PP processor
+  simplified: CC/PP 处理器
+  traditional: CC/PP 處理器
+- en: CC/PP Repository
+  simplified: CC/PP 仓库/储存库
+  traditional: CC/PP 資料倉儲
+- en: CDATA sections
+  simplified: CDATA 区段
+  traditional: CDATA 區段
+- en: CERN
+  simplified: 欧洲粒子物理研究所
+  traditional: 歐洲粒子物理研究所
+- en: certification
+  simplified: 凭证，证书
+  traditional: 憑證
+- en: chair
+  simplified: 主持，（小组的）主席
+  traditional: 主持、(小組的) 主席
+- en: chairman
+  simplified: 主席
+  traditional: 主席
+- en: byte order
+  simplified: 字节顺序
+  traditional: 位元組順序
+- en: channel
+  simplified: 通道，频道
+  traditional: 通道
+- en: character
+  simplified: 字符
+  traditional: 字符、字元
+- en: character data
+  simplified: 字符数据
+  traditional: 字符資料
+- en: policy guard
+  simplified: 策略保护机制
+  traditional: 政策保護機制
+- en: complete
+  simplified: 完备的
+  traditional: 完備的
+- en: character or expression depth
+  simplified: 字符或表达式深度
+  traditional: 字符或表達式深度
+- en: character or expression width
+  simplified: 字符或表达式宽度
+  traditional: 字符或表達式寬度
+- en: character reference
+  simplified: 字符参照，字符参考
+  traditional: 字符參照、字元參照
+- en: check for
+  simplified: 检查
+  traditional: 檢查
+- en: child
+  simplified: 子（节点）
+  traditional: 子 (節點)
+- en: choreography
+  simplified: （web service）组合，编排，流程设计
+  traditional: (web service) 流程設計
+- en: chromaticity (CIE)
+  simplified: 色度（CIE）
+  traditional: 色度 (CIE)
+- en: chunk
+  simplified: 区块，块
+  traditional: 區塊
+- en: class
+  simplified: 类，类别
+  traditional: 類別
+- en: class definition
+  simplified: 类定义
+  traditional: 類別定義
+- en: class description
+  simplified: 类描述
+  traditional: 類別描述
+- en: class name
+  simplified: 类名
+  traditional: 類別名稱
+- en: class of product
+  simplified: 产品类别
+  traditional: 產品類別 *
+- en: click-stream
+  simplified: 点击流
+  traditional: 點選串流
+- en: client
+  simplified: 客户端
+  traditional: 客戶端
+- en: collapse
+  simplified: 折叠
+  traditional: 折疊
+- en: character encoding
+  simplified: 字符编码
+  traditional: 字符編碼
+- en: collated text transcript
+  simplified: 逐字稿
+  traditional: 逐字稿 *
+- en: colour type
+  simplified: 色彩类型
+  traditional: 色彩類別
+- en: comm
+  simplified: 通讯
+  traditional: 通訊
+- en: comments
+  simplified: 注解，评价
+  traditional: 註解
+- en: principal node type
+  simplified: 主结点类型
+  traditional: 首要節點類型
+- en: containing document
+  simplified: 容器文件
+  traditional: 容器文件
+- en: compliance
+  simplified: 一致性
+  traditional: 一致性 (Conformance now)
+- en: component
+  simplified: 组件，构件
+  traditional: 組件
+- en: composite (verb)
+  simplified: 组合（动词）
+  traditional: 複合 (動詞)
+- en: Conformance Evaluation
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/407/"
+    target="_blank">（WCAG）符合性评估</a>
+  traditional: ''
+- en: Compositing
+  simplified: （图像）拼接
+  traditional: ''
+- en: concept
+  simplified: 概念
+  traditional: 概念
+- en: condition
+  simplified: 条件
+  traditional: 條件
+- en: conditional content
+  simplified: 条件内容
+  traditional: 條件內容
+- en: conditional sections
+  simplified: 条件区段
+  traditional: 條件區段
+- en: confidentiality
+  simplified: 机密性，保密性
+  traditional: 機密性、保密性
+- en: configuration
+  simplified: 配置
+  traditional: 配置
+- en: 'configure, control'
+  simplified: 配置，控制
+  traditional: 配置，控制
+- en: conformance
+  simplified: 符合性
+  traditional: 一致性
+- en: conformance clause
+  simplified: 符合性条款
+  traditional: 一致性條款
+- en: conformance level
+  simplified: 符合性等级
+  traditional: 一致性級別
+- en: conformance testing
+  simplified: 符合性测试
+  traditional: 一致性測試
+- en: conforming document
+  simplified: 符合性文件
+  traditional: 一致性文件
+- en: connection
+  simplified: 连接
+  traditional: 連結
+- en: complex ruby markup
+  simplified: 复杂旁注（ruby）标记
+  traditional: 複雜旁註 (ruby) 標記
+- en: consequent
+  simplified: 结果
+  traditional: 結果
+- en: consistent
+  simplified: 一致的
+  traditional: 一致的
+- en: constraint
+  simplified: 限制
+  traditional: 限制
+- en: contained (element A is contained in B)
+  simplified: 包含于（元素A包含于元素B）
+  traditional: 包含於 (元素A包含於元素B)
+- en: container (Constructor)
+  simplified: 容器（构造子）
+  traditional: 容器 (建構子)
+- en: property
+  simplified: 属性
+  traditional: 屬性
+- en: CSS (Cascading style sheets)
+  simplified: CSS（层叠样式表，级联样式表）
+  traditional: 'CSS (階層樣規, 層疊樣式表)'
+- en: content developer
+  simplified: 内容开发者
+  traditional: 內容開發者
+- en: content elements
+  simplified: 内容元素
+  traditional: 內容元素
+- en: content generation
+  simplified: 内容生成
+  traditional: 內容生成
+- en: Cross-Origin Resource Sharing
+  simplified: '<a href="http://www.chinaw3c.org/archives/396/" target="_blank">跨源资源共享</a>'
+  traditional: ''
+- en: counters
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/464/"
+    target="_blank">(CSS)计数器，编号</a>
+  traditional: ''
+- en: CORS (Cross-Origin Resource Sharing)
+  simplified: '<a href="http://www.chinaw3c.org/archives/396/" target="_blank">跨源资源共享</a>'
+  traditional: ''
+- en: Core-AAM (Core Accessibility API Mapping)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/539/"
+    target="_blank">核心可访问性API映射</a>
+  traditional: ''
+- en: content-aware
+  simplified: 内容感知
+  traditional: ''
+- en: content security policy
+  simplified: '<a href="http://www.chinaw3c.org/archives/560/" target="_blank">内容安全策略</a>'
+  traditional: ''
+- en: content model
+  simplified: 内容模型
+  traditional: 內容模型
+- en: content negotiation
+  simplified: 内容协商
+  traditional: 內容協商
+- en: content provider
+  simplified: 内容提供者
+  traditional: 內容供應商
+- en: content selection
+  simplified: 内容选择
+  traditional: 內容選擇
+- en: content set
+  simplified: 内容集
+  traditional: 內容集
+- en: content token element
+  simplified: 内容标记元素
+  traditional: 內容記號元素
+- en: context (of a given mathML expression)
+  simplified: （给定mathML表达式的）上下文
+  traditional: (給定 mathML 表達式的) 上下文
+- en: context node
+  simplified: 上下文节点
+  traditional: '取義結點 (這個詞彙乃用於 XML Path Language (XPath), 請勿與前面用於 mathML 的 context 搞混)'
+- en: context position
+  simplified: 上下文位置
+  traditional: '取義位置 (這個詞彙乃用於 XML Path Language (XPath), 請勿與前面用於 mathML 的 context 搞混)'
+- en: context size
+  simplified: 上下文范围
+  traditional: '取義範圍 (這個詞彙乃用於 XML Path Language (XPath), 請勿與前面用於 mathML 的 context 搞混)'
+- en: contradictory behaviors
+  simplified: 矛盾行为
+  traditional: 矛盾行為
+- en: control
+  simplified: 控制
+  traditional: 控制
+- en: control item
+  simplified: 控制项
+  traditional: 控制項
+- en: convenience
+  simplified: 便利
+  traditional: 便利
+- en: conversation
+  simplified: 会话
+  traditional: 會話
+- en: content
+  simplified: 内容
+  traditional: 內容
+- en: conversion tool
+  simplified: 转换工具
+  traditional: 轉換工具
+- en: COO
+  simplified: 首席运营官
+  traditional: 營運長
+- en: cookie
+  simplified: cookie
+  traditional: cookie
+- en: correct
+  simplified: 正确的
+  traditional: 正確的
+- en: credentials
+  simplified: 凭据，信任证
+  traditional: 憑據
+- en: critical chunk
+  simplified: 关键区块
+  traditional: 關鍵區塊
+- en: 'quality assurance, QA'
+  simplified: 品质保证，质量保证，质量确保
+  traditional: 品質保證、QA
+- en: deprecated
+  simplified: 弃用
+  traditional: 棄用
+- en: cyberspace
+  simplified: 网络空间
+  traditional: cyberspace *
+- en: cyc
+  simplified: '<a href="http://www.cyc.com/" target="_blank">cyc计划</a>'
+  traditional: cyc 計劃
+- en: daemon
+  simplified: 'deamon, 守护进程'
+  traditional: daemon
+- en: data on the web
+  simplified: Web数据
+  traditional: ''
+- en: data cube
+  simplified: '<a href="http://www.chinaw3c.org/archives/394/" target="_blank">数据立方</a>'
+  traditional: ''
+- en: 'CSV, comma seperated value'
+  simplified: 逗号分隔值（一种数据文件格式）
+  traditional: ''
+- en: csv on the web
+  simplified: Web CSV数据集
+  traditional: ''
+- en: data category
+  simplified: 数据类型
+  traditional: 資料類型
+- en: data element
+  simplified: 数据元素
+  traditional: 資料元素
+- en: data model
+  simplified: 数据模型
+  traditional: 資料模型
+- en: data resource
+  simplified: 数据资源
+  traditional: 資源
+- en: data schema
+  simplified: 数据大纲
+  traditional: 資料綱目
+- en: data set
+  simplified: 数据集
+  traditional: 資料集
+- en: data structure
+  simplified: 数据结构
+  traditional: 資料結構
+- en: data-valued property
+  simplified: 数据值属性
+  traditional: 資料型別屬性
+- en: database
+  simplified: 数据库
+  traditional: 資料庫
+- en: datastream
+  simplified: 数据流
+  traditional: 資料流
+- en: datatype
+  simplified: 数据类型
+  traditional: 資料型別
+- en: datatype property
+  simplified: 数据类型属性
+  traditional: 資料型別屬性
+- en: date space
+  simplified: 日期区域
+  traditional: 網站編年區
+- en: decideable
+  simplified: 可判定的
+  traditional: 可判定的
+- en: declaration
+  simplified: 声明
+  traditional: 宣告
+- en: declared
+  simplified: 已声明的
+  traditional: 已宣告的
+- en: decomposition
+  simplified: 分解
+  traditional: 分解
+- en: deepest
+  simplified: 最深的
+  traditional: 最深的
+- en: default
+  simplified: 默认的，缺省的
+  traditional: 預設的
+- en: default namespace
+  simplified: 缺省命名空间，缺省名字空间
+  traditional: 預設命名空間
+- en: CSS W3C cascading style sheet specification.
+  simplified: CSS W3C层叠样式表规范
+  traditional: 'CSS W3C 階層樣規規格書, 層疊樣式表規範標準'
+- en: deferred request authentication
+  simplified: 推迟请求验证
+  traditional: 推遲請求驗證 *
+- en: defining required attributes
+  simplified: 定义必要属性
+  traditional: 定義必要屬性
+- en: defining the type of attribute values
+  simplified: 定义属性值类型
+  traditional: 定義屬性值類型
+- en: deflate
+  simplified: deflate（一种压缩算法）
+  traditional: deflate (一種壓縮算法)
+- en: delivered image
+  simplified: 传输完成的图像
+  traditional: 傳輸完成的圖像
+- en: delivery context
+  simplified: 传输上下文
+  traditional: 傳送上下文
+- en: delivery policy
+  simplified: 传输策略
+  traditional: 傳送政策
+- en: delivery unit
+  simplified: 传输单位
+  traditional: 傳送單位
+- en: relation
+  simplified: 关系
+  traditional: 關係
+- en: domain name
+  simplified: 域名
+  traditional: 域名
+- en: descendant
+  simplified: 后代节点（相对于祖先节点）
+  traditional: 子節點
+- en: descendants
+  simplified: 后代节点（相对于祖先节点）
+  traditional: 子節點
+- en: device
+  simplified: 设备
+  traditional: 設備
+- en: 'DOM (Document object model, see http://www.w3.org/DOM/)'
+  simplified: DOM（文档对象模型）
+  traditional: DOM (文件物件模型)
+- en: 'DNT (Do Not Track), Tracking Preference Expression'
+  simplified: DNT (不追踪)，追踪偏好表达
+  traditional: ''
+- en: device independent
+  simplified: 设备无关
+  traditional: 與裝置無關的
+- en: device-independence
+  simplified: 设备无关
+  traditional: 與裝置無關
+- en: dialog
+  simplified: 对话
+  traditional: 對話
+- en: digital rights management
+  simplified: 数字版权管理
+  traditional: 數位權利管理
+- en: digital signature
+  simplified: 数字签名
+  traditional: 數位簽章
+- en: dimensions of variability
+  simplified: 变异维度
+  traditional: 變異維度
+- en: direct sub-expression (of a mathML expression of)
+  simplified: （mathML表达式的）直接子表达式
+  traditional: (mathML 表達式的) 直接子表達式
+- en: directly contained (element A in B)
+  simplified: （A）直接包含于（B）
+  traditional: (A) 直接包含於 (B)
+- en: director
+  simplified: 领导人、总监
+  traditional: 領導人、總監
+- en: discovery
+  simplified: 发现
+  traditional: 探索
+- en: discovery service
+  simplified: 发现服务
+  traditional: 探索服務 *
+- en: discretionary choices
+  simplified: 离散选项
+  traditional: 離散選項 *
+- en: discretionary items
+  simplified: 离散项
+  traditional: 離散項目 *
+- en: document
+  simplified: 文档
+  traditional: 文件
+- en: document character set
+  simplified: 文档字符集
+  traditional: 文件字符集
+- en: 'document content, structure, and presentation'
+  simplified: 文档内容，结构，表示
+  traditional: 文件內容、結構、表示
+- en: document entity
+  simplified: 文档实体
+  traditional: 文件實體
+- en: document language
+  simplified: 文档语言
+  traditional: 文件語言
+- en: document model
+  simplified: 文档模型
+  traditional: 文件模型
+- en: document object model
+  simplified: 文档对象模型
+  traditional: 文件物件模型
+- en: 'document object, document'
+  simplified: 文档对象，文档
+  traditional: 文件物件、文件
+- en: document order
+  simplified: 文档顺序
+  traditional: 文件順序
+- en: document profile
+  simplified: 文档设置
+  traditional: 文件設置文件
+- en: depth
+  simplified: 深度
+  traditional: 深度
+- en: 'document source, text source,'
+  simplified: 文档源，文本源
+  traditional: 文件來源、文本來源
+- en: document style semantics and specification language (DSSSL)
+  simplified: 文档风格语义和规范语言（DSSSL）
+  traditional: 文件風格語義和規範語言 (DSSSL)
+- en: document tree
+  simplified: 文档树
+  traditional: 文件樹
+- en: document type
+  simplified: 文档类型
+  traditional: 文件類型
+- en: document type declaration
+  simplified: 文档类型声明
+  traditional: 文件類型宣告
+- en: document type definition (DTD)
+  simplified: 文档类型定义（DTD）
+  traditional: 文件類型定義 (DTD)
+- en: documentation
+  simplified: 文档、参考文件
+  traditional: 參考文件
+- en: >-
+    DOM (Document object model, see <a href="http://www.w3.org/DOM/"
+    class="external free" title="http://www.w3.org/DOM/"
+    rel="nofollow">http://www.w3.org/DOM/</a>)
+  simplified: ''
+  traditional: DOM (文件物件模型)
+- en: DOM level 0
+  simplified: DOM（第0级）
+  traditional: DOM level 0
+- en: domain
+  simplified: 网域，域
+  traditional: 網域
+- en: response
+  simplified: 响应
+  traditional: 回應
+- en: equivalent
+  simplified: 等价的
+  traditional: 等價的
+- en: DTD
+  simplified: DTD（文档类型定义）
+  traditional: 文件類型定義 (DTD)
+- en: DTD-determined ID
+  simplified: 确定的DTD标识
+  traditional: DTD 確定 ID
+- en: DTMF (Dual tone multi-Frequency)
+  simplified: DTMF（双音多频）
+  traditional: DTMF (雙音多頻)
+- en: entropy coding
+  simplified: 熵编码
+  traditional: ''
+- en: Encrypted Media Extensions
+  simplified: '<a href="http://www.chinaw3c.org/archives/433/" target="_blank">加密媒体扩展</a>'
+  traditional: ''
+- en: encoding header
+  simplified: '<a href="http://xml.ascc.net/zh/utf-8/gloss.html" target="_blank">字符集头部</a>'
+  traditional: 字集標頭
+- en: encoding
+  simplified: '<a href="http://www.chinaw3c.org/archives/403/" target="_blank">字符编码，编码</a>'
+  traditional: 字集碼
+- en: EmotionML
+  simplified: '<a href="http://www.chinaw3c.org/archives/480/" target="_blank">表情标记语言</a>'
+  traditional: ''
+- en: 'EMMA: Extensible MultiModal Annotation Markup Language'
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/191/"
+    target="_blank">可扩展多模式注释标记语言</a>
+  traditional: ''
+- en: dublin core
+  simplified: 都柏林核心集（dublin core）
+  traditional: 都柏林核心集
+- en: dynamic content
+  simplified: 动态内容
+  traditional: 動態內容
+- en: dynamic HTML (DHTML)
+  simplified: 动态HTML （DHTML）
+  traditional: 動態 HTML (DHTML)
+- en: early normalization
+  simplified: 事前正则化
+  traditional: 事前正規化
+- en: 'ease of parsing and serializing:'
+  simplified: 解析和序列化的建华
+  traditional: 剖析和序列化的簡化
+- en: EBT (Electronic book technology)
+  simplified: 电子图书技术
+  traditional: 電子圖書技術
+- en: eCMAScript
+  simplified: eCMAScript
+  traditional: eCMAScript
+- en: EDI (Electronic data interchange)
+  simplified: 电子数据交换
+  traditional: 電子資料交換
+- en: editing view
+  simplified: 编辑视图
+  traditional: 編輯閱覽模式
+- en: electronic data interchange (EDI)
+  simplified: 电子数据交换
+  traditional: 電子資料交換
+- en: element
+  simplified: 元素
+  traditional: 元素
+- en: element content
+  simplified: 元素内容
+  traditional: 元素內容
+- en: element name
+  simplified: 元素名
+  traditional: 元素名稱
+- en: element type
+  simplified: 元素类型
+  traditional: 元素類型
+- en: element type declaration
+  simplified: 元素类型声明
+  traditional: 元素類型宣告
+- en: 'element, element type'
+  simplified: 元素，元素类型
+  traditional: 元素、元素類型
+- en: elements
+  simplified: 元素
+  traditional: 元素
+- en: embed
+  simplified: 嵌入
+  traditional: 嵌入
+- en: embedded object
+  simplified: 嵌入对象
+  traditional: 嵌入式物件
+- en: Embedded Web request
+  simplified: 嵌入式网络请求
+  traditional: 嵌入式網路聲請
+- en: embellished operator
+  simplified: 修饰操作符
+  traditional: 修飾操作符
+- en: empty
+  simplified: 空
+  traditional: 空
+- en: empty-element tag
+  simplified: 空元素标签
+  traditional: 空元素標籤
+- en: 'enabled element, disabled element,'
+  simplified: 启用的元素，停用的元素
+  traditional: 啟用的元素、停用的元素
+- en: driver
+  simplified: 驱动器
+  traditional: 驅動檔
+- en: encryption
+  simplified: 加密
+  traditional: 加密
+- en: end point
+  simplified: 端点
+  traditional: 終點
+- en: end-tag
+  simplified: 结束标签
+  traditional: 結束標籤
+- en: ending resource
+  simplified: 终止资源
+  traditional: 結束資源
+- en: enquire
+  simplified: enquire（程序名）
+  traditional: enquire (程序名)
+- en: entail
+  simplified: 推导
+  traditional: 推導
+- en: entities
+  simplified: 实体
+  traditional: 實體
+- en: entity
+  simplified: 实体
+  traditional: 實體
+- en: entity reference
+  simplified: 实体引用
+  traditional: 實體參照
+- en: enumerated attributes
+  simplified: 枚举属性
+  traditional: 列舉屬性、枚舉屬性
+- en: episode
+  simplified: 情节，场景
+  traditional: 情節
+- en: equable practice
+  simplified: 等价实践
+  traditional: '等同常規 [2]'
+- en: schema-determined ID
+  simplified: 大纲确定ID
+  traditional: 由綱目決定的標識
+- en: GILC (Global internet liberty campaign)
+  simplified: GILC（全球互联网自由运动）
+  traditional: GILC (全球網際網路自由化運動)
+- en: error
+  simplified: 错误
+  traditional: 錯誤
+- en: escape
+  simplified: 退出
+  traditional: 跳脫、逸出
+- en: event
+  simplified: 事件
+  traditional: 事件
+- en: geometry interfaces
+  simplified: '<a href="http://www.chinaw3c.org/archives/553/" target="_blank">几何接口</a>'
+  traditional: ''
+- en: Geolocation
+  simplified: '<a href="http://www.chinaw3c.org/archives/317/" target="_blank">地理位置</a>'
+  traditional: ''
+- en: gamepad
+  simplified: '<a href="http://www.chinaw3c.org/archives/447/" target="_blank">游戏手柄</a>'
+  traditional: ''
+- en: fragmentation
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/399/"
+    target="_blank">(CSS)碎片化，片段</a>
+  traditional: ''
+- en: 'focus, content focus, user interface focus'
+  simplified: 焦点，内容焦点，用户界面焦点
+  traditional: 焦點、內容焦點、使用者界面焦點
+- en: Flexible Box Layout
+  simplified: '<a href="http://www.chinaw3c.org/archives/475/" target="_blank">弹性盒式布局</a>'
+  traditional: ''
+- en: filter effect
+  simplified: '<a href="http://www.chinaw3c.org/archives/341/" target="_blank">滤镜效果</a>'
+  traditional: ''
+- en: federation
+  simplified: 联邦
+  traditional: ''
+- en: 'events and scripting, event handler, eventhandler'
+  simplified: 事件和脚本，事件处理器
+  traditional: 事件和腳本、事件處理器、事件處理器
+- en: executable content
+  simplified: 可执行内容
+  traditional: 可執行內容
+- en: expanded name
+  simplified: 扩展名
+  traditional: 擴充名稱
+- en: expanded-name
+  simplified: 扩展名
+  traditional: 擴充名稱
+- en: explicit expiration time
+  simplified: 显式失效时间，显式过期时间
+  traditional: 顯式過期時間
+- en: explicit user request
+  simplified: 显式用户请求
+  traditional: 顯式用戶請求
+- en: Explicit Web request
+  simplified: 显式Web请求
+  traditional: 顯式Web請求
+- en: explicitly undefined behaviors
+  simplified: 显式未定义行为
+  traditional: 顯式未定義行為
+- en: extended link
+  simplified: 延伸链接
+  traditional: 延伸鏈結
+- en: extended links
+  simplified: 延伸链接
+  traditional: 延伸鏈結
+- en: extending pre-defined elements
+  simplified: 扩展预定义元素
+  traditional: 延伸預先定義的元素
+- en: extensible markup language (XML)
+  simplified: 可扩展标记语言（XML）
+  traditional: 可擴展標記語言 (XML)
+- en: extensible style language (XSL)
+  simplified: 可扩展样式语言（XSL）
+  traditional: 可擴展樣式語言 (XSL)
+- en: extensional
+  simplified: 可扩展的
+  traditional: 外延的
+- en: external
+  simplified: 外部的
+  traditional: 外部的
+- en: external entity
+  simplified: 外部实体
+  traditional: 外部實體
+- en: external markup declaration
+  simplified: 外部标记声明
+  traditional: 外部標記宣告
+- en: externally-determined ID
+  simplified: 外部可确定标记（ID）
+  traditional: 外部可確定 ID
+- en: facet
+  simplified: 面
+  traditional: 分面
+- en: facilities
+  simplified: 设施
+  traditional: 設施
+- en: fatal error
+  simplified: 严重错误
+  traditional: 致命錯誤
+- en: feature
+  simplified: 功能特性
+  traditional: 功能、特徵、特性
+- en: fellow
+  simplified: >-
+    <a href="http://www.chinaw3c.org/hire.html#fellow" target="_blank">研究员（W3C
+    Fellow）</a>
+  traditional: 研究員
+- en: fences
+  simplified: 围栏分隔符
+  traditional: 柵欄分隔符
+- en: FIA (Form interpretation algorithm)
+  simplified: FIA （表格翻译算法）
+  traditional: FIA (表格直譯式演算法)
+- en: filter
+  simplified: 过滤器
+  traditional: 過濾器
+- en: filtering
+  simplified: 过滤
+  traditional: 過濾
+- en: first node rule
+  simplified: 首节点规则
+  traditional: 首節點定律
+- en: first-hand
+  simplified: 第一手的
+  traditional: 第一手的
+- en: equivalent (for content)
+  simplified: （内容上）等价
+  traditional: (內容上) 等價
+- en: focus of attention
+  simplified: 关注焦点
+  traditional: 關注焦點
+- en: 'focus, content focus, user interface focus,user'
+  simplified: ''
+  traditional: 焦點、內容焦點、使用者界面焦點、使用者
+- en: following element
+  simplified: 后续元素
+  traditional: 後繼元素
+- en: font
+  simplified: 字体
+  traditional: '字體 (例如蘋果儷中黑, Time New Roman; 請一併參照 glyph 和 typeface)'
+- en: for compatibility
+  simplified: 为了兼容性
+  traditional: 為了相容性
+- en: for interoperability
+  simplified: 为了互操作性
+  traditional: 為了互用性
+- en: form
+  simplified: 表单
+  traditional: 表格
+- en: form control
+  simplified: 表单控制，表单控件
+  traditional: 表格控制
+- en: form item
+  simplified: 表单项
+  traditional: 表格項目
+- en: gamma
+  simplified: gamma（伽玛）
+  traditional: gamma
+- en: gateway
+  simplified: 网关
+  traditional: 閘道
+- en: general entities
+  simplified: 通用实体
+  traditional: 通用實體
+- en: generic identifier
+  simplified: 通用标识符
+  traditional: 通用識別符
+- en: GIF (Graphics interchange format)
+  simplified: GIF （图形交换格式）
+  traditional: GIF (圖形交換格式)
+- en: service description
+  simplified: 服务描述
+  traditional: 服務描述
+- en: individual
+  simplified: 个体
+  traditional: 個體
+- en: glyph
+  simplified: 字形（例如粗体、斜体）
+  traditional: '字形 (例如粗體, 斜體; 請一併參照 font 和 typeface)'
+- en: graphical
+  simplified: 图形的
+  traditional: 圖像的
+- en: graphics
+  simplified: 图形
+  traditional: 圖像
+- en: IndieUI (independent user interface)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/552/" target="_blank">IndieUI
+    独立用户界面</a>
+  traditional: ''
+- en: Indexed Database
+  simplified: '<a href="http://www.chinaw3c.org/archives/197/" target="_blank">索引数据库</a>'
+  traditional: ''
+- en: IME (input method editor)
+  simplified: '<a href="http://www.chinaw3c.org/archives/366/" target="_blank">输入法编辑器</a>'
+  traditional: ''
+- en: image description extension
+  simplified: '<a href="http://www.chinaw3c.org/archives/592/" target="_blank">图片描述扩展</a>'
+  traditional: ''
+- en: High Resolution Time
+  simplified: '<a href="http://www.chinaw3c.org/archives/349/" target="_blank">高解析度时间</a>'
+  traditional: ''
+- en: grid layout
+  simplified: (CSS)网格布局
+  traditional: ''
+- en: greyscale
+  simplified: 灰阶，灰度
+  traditional: 灰階、灰度
+- en: group ruby
+  simplified: 旁注（ruby）群集
+  traditional: 旁註 (ruby) 群集
+- en: harmonized adaptation
+  simplified: 和谐适配
+  traditional: 協調適應
+- en: indirectly contained
+  simplified: 间接包含
+  traditional: 間接包含
+- en: harmonized user experience
+  simplified: 和谐的用户体验
+  traditional: 協調使用者體驗
+- en: height
+  simplified: 高度
+  traditional: 高度
+- en: heuristic expiration time
+  simplified: 启发式失效时间，启发式过期时间
+  traditional: 預設過期時間
+- en: indexing
+  simplified: 索引
+  traditional: 索引
+- en: highlight
+  simplified: 高亮显式
+  traditional: 凸顯
+- en: hint
+  simplified: 提示
+  traditional: 提示
+- en: hiragana
+  simplified: 平假名
+  traditional: 平假名
+- en: host
+  simplified: W3C总部，（活动的）主办（承办）
+  traditional: 主辦者
+- en: host language
+  simplified: 宿主语言
+  traditional: 宿主語言 *
+- en: host page
+  simplified: 主页
+  traditional: 主網頁、主頁
+- en: HTML
+  simplified: ''
+  traditional: HTML
+- en: HTML (Hypertext markup language)
+  simplified: HTML（超文本标记语言）
+  traditional: HTML (超文本標記語言)
+- en: HTTP (Hypertext transfer protocol)
+  simplified: HTTP（超文本传输协议）
+  traditional: HTTP (超文本傳輸協定)
+- en: HTTP client
+  simplified: HTTP 客户端
+  traditional: HTTP 客戶端
+- en: HTTP gateway
+  simplified: HTTP 网关
+  traditional: HTTP 閘道
+- en: HTTP payload entity
+  simplified: HTTP 载荷实体
+  traditional: HTTP 載荷實體
+- en: HTTP proxy
+  simplified: HTTP 代理
+  traditional: HTTP 代理
+- en: HTTP representation
+  simplified: HTTP 表示
+  traditional: HTTP 表示
+- en: HTTP request
+  simplified: HTTP 请求
+  traditional: HTTP 聲請
+- en: HTTP response
+  simplified: HTTP 响应
+  traditional: HTTP 回應
+- en: HTTP server
+  simplified: HTTP 服务器
+  traditional: HTTP 伺服器
+- en: hybrid document
+  simplified: 混合文档
+  traditional: 混合文件
+- en: hyperlink
+  simplified: 超链接
+  traditional: 超鏈結
+- en: hypertext
+  simplified: 超文本
+  traditional: 超文本
+- en: idempotent
+  simplified: 幂等元，幂等
+  traditional: 恆效性質
+- en: identical
+  simplified: 等同
+  traditional: 等同的
+- en: identified data
+  simplified: 已识别的数据
+  traditional: 已識別資料
+- en: identifier
+  simplified: 标识符
+  traditional: 識別符
+- en: ideograph
+  simplified: 表意符号
+  traditional: 表意符號
+- en: iff
+  simplified: 当且仅当
+  traditional: 若且唯若
+- en: image
+  simplified: '图像，图片（相对于Graph, 图形）'
+  traditional: 圖形
+- en: image data
+  simplified: 图像数据，图片数据
+  traditional: 圖形資料
+- en: image map
+  simplified: 图像地图
+  traditional: 影像地圖
+- en: implementation
+  simplified: 实现
+  traditional: 實作
+- en: implementation conformance statement (ICS)
+  simplified: 实现的一致性声明
+  traditional: 實作一致性聲明 (ICS)
+- en: glossary of terms for device independence (version used for Device)
+  simplified: 设备无关词汇表
+  traditional: 與裝置無關的術語表 (用於裝置版本)
+- en: implementation dependent values (or features)
+  simplified: 实现的相关度（特征）
+  traditional: 實作相關數值 (或特徵)
+- en: implementation platform
+  simplified: 实现平台
+  traditional: 實作平臺
+- en: Implicit Web request
+  simplified: 隐式Web请求
+  traditional: 隱式網路聲請
+- en: important
+  simplified: 重要的
+  traditional: 重要的
+- en: imports closure
+  simplified: 导入闭包
+  traditional: 導入閉包 *
+- en: inbound
+  simplified: 流入
+  traditional: 流入
+- en: inbound/outbound
+  simplified: 流入/流出
+  traditional: 流入/流出
+- en: included
+  simplified: 包含的
+  traditional: 包含的
+- en: inconsistent
+  simplified: 不一致的
+  traditional: 不一致的
+- en: independent web
+  simplified: 独立web
+  traditional: 獨立網
+- en: index
+  simplified: 索引
+  traditional: 索引
+- en: indexed-colour
+  simplified: 索引色
+  traditional: 索引色
+- en: indexical
+  simplified: 索引的
+  traditional: 索引的
+- en: SOAP module
+  simplified: SOAP模块
+  traditional: SOAP 模組
+- en: link
+  simplified: 链接
+  traditional: 鏈結
+- en: infer
+  simplified: 推理
+  traditional: 推理
+- en: inferred mrow
+  simplified: 按推理所得的 mrow （参考MathML的mrow组件）
+  traditional: 按推理所得的 mrow (請參考 MathML 中的 mrow 組件)
+- en: inform
+  simplified: 通知
+  traditional: 通知
+- en: 'LDP, linked data platform'
+  simplified: 互联数据平台
+  traditional: ''
+- en: Last Call
+  simplified: （标准草案）最终征求意见稿
+  traditional: ''
+- en: ITS (Internationaliztion Tag Set)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/323/"
+    target="_blank">ITS(国际化标记集）</a>
+  traditional: ''
+- en: Internationaliztion Tag Set　
+  simplified: '<a href="http://www.chinaw3c.org/archives/323/" target="_blank">国际化标记集</a>'
+  traditional: ''
+- en: inline
+  simplified: >-
+    <a href="http://www.w3.org/TR/CSS21/visuren.html#inline-box"
+    target="_blank">(CSS)行内</a>
+  traditional: 行內、內行
+- en: information space
+  simplified: 信息空间
+  traditional: 資訊空間
+- en: informative text
+  simplified: 参考文本
+  traditional: 參考文本
+- en: initial SOAP sender
+  simplified: 初始SOAP发送者
+  traditional: 初始 SOAP 發送者
+- en: input configuration
+  simplified: 输入配置
+  traditional: 輸入配置
+- en: input item
+  simplified: 输入项
+  traditional: 輸入項目
+- en: INRIA (Institut national de recherche en infomatique et automatique)
+  simplified: INRIA（法国国家信息与自动化研究所）
+  traditional: INRIA (法國國家信息與自動化研究所)
+- en: instance
+  simplified: 实例
+  traditional: 實體
+- en: instance data
+  simplified: 实例数据
+  traditional: 實體資料
+- en: instance data node
+  simplified: 实例数据节点
+  traditional: 實體資料節點
+- en: instance of mathML
+  simplified: mathML的实例
+  traditional: mathML的實體
+- en: instantiate
+  simplified: 示例，范例
+  traditional: 示例
+- en: integrity
+  simplified: 完整性
+  traditional: 完整性
+- en: interaction
+  simplified: 交互
+  traditional: 互動
+- en: 'interactive element, non-interactive element,non-interactive'
+  simplified: 交互式元素，非交互式元素，非交互的
+  traditional: 互動式的元素、非互動式的元素、非互動式的
+- en: interlaced PNG image
+  simplified: 交错的PNG图像
+  traditional: 交錯的 PNG 圖形
+- en: internal
+  simplified: 内部
+  traditional: 內部的
+- en: internal entity
+  simplified: 内部实体
+  traditional: 內部實體
+- en: internationalized resource identifier
+  simplified: 国际化资源标识符
+  traditional: 國際化資源識別符
+- en: internet
+  simplified: 互联网
+  traditional: 網際網路
+- en: interoperability
+  simplified: 互操作性
+  traditional: 互用性
+- en: interpretation
+  simplified: 解释
+  traditional: 直譯、解釋、理解
+- en: intranet
+  simplified: 内联网
+  traditional: 內部網路
+- en: intrinsic dimensions
+  simplified: 固有维度
+  traditional: 固有維度
+- en: inverse function
+  simplified: 反函数
+  traditional: 反函數
+- en: IP (Internet protocol)
+  simplified: IP（互联网协议）
+  traditional: IP (網際網路協定)
+- en: IPR (Intellectual property rights)
+  simplified: IPR（知识产权）
+  traditional: IPR (知識產權)、(智慧財產權)
+- en: IRC
+  simplified: IRC（互联网中继聊天）
+  traditional: IRC (網際網路轉播聊天)
+- en: IRI reference
+  simplified: IRI引用
+  traditional: IRI 引用
+- en: ISO (International standards organization)
+  simplified: ISO（国际标准化组织）
+  traditional: ISO (國際標準化組織)
+- en: ISP (Internet service provider)
+  simplified: ISP（互联网服务提供商）
+  traditional: ISP (網際網路服務供應商)
+- en: linearized table
+  simplified: 线性化表格
+  traditional: 線性化表格
+- en: java
+  simplified: Java（程序设计语言）
+  traditional: java (程式語言)
+- en: jigsaw
+  simplified: jigsaw（基于Java的Web服务器）
+  traditional: 'jigsaw (用Java寫成的Web Server [[3]])'
+- en: JPEG (Joint photographic experts group)
+  simplified: JPEG（联合图像专家组，一种图片格式）
+  traditional: JPEG (聯合圖片專家組：一種圖片編碼格式)
+- en: JSGF
+  simplified: 'JSGF（Java语音语法格式,JSpeech Grammar Format）'
+  traditional: JSGF (java API 語音語法格式)
+- en: kana
+  simplified: 假名
+  traditional: 假名
+- en: kanji
+  simplified: 日本汉字
+  traditional: 日本漢字
+- en: katakana
+  simplified: （日本字母）片假名
+  traditional: (日本字母) 片假名
+- en: keio university
+  simplified: 庆应大学（日本，W3C的总部之一）
+  traditional: 慶應大學 (日本)
+- en: key
+  simplified: 键（如key-value），密钥，关键
+  traditional: 鍵、金鑰、關鍵
+- en: key binding
+  simplified: 密钥绑定
+  traditional: 金鑰繫結
+- en: key location
+  simplified: 密钥定位
+  traditional: 金鑰定位
+- en: key management
+  simplified: 密钥管理
+  traditional: 金鑰管理
+- en: key name
+  simplified: 键名，密钥名
+  traditional: 金鑰名稱
+- en: individual-valued property
+  simplified: 个体值属性
+  traditional: 個體價值屬性
+- en: key validation
+  simplified: 密钥验证
+  traditional: 金鑰驗證
+- en: lambda expression
+  simplified: lambda表达式
+  traditional: Lambda 表達式
+- en: line-mode browser
+  simplified: （命令）行模式浏览器
+  traditional: (命令) 列模式瀏覽器
+- en: language binding
+  simplified: 语言绑定
+  traditional: 語言繫結
+- en: language identifier
+  simplified: 语言标识符
+  traditional: 語言識別符
+- en: late normalization
+  simplified: 晚（迟）正则化
+  traditional: 延後正規化
+- en: 'layout schema (plural: schemata)'
+  simplified: 样式大纲（复数形式：schemata）
+  traditional: layout schema (複數形：schemata) *
+- en: LCS (Laboratory for computer science)
+  simplified: LCS（计算机科学实验室）
+  traditional: LCS (計算機科學實驗室)
+- en: LEAD (Live early adoption and demonstration)
+  simplified: LEAD（使用中的早期应用及展示）
+  traditional: LEAD (提前採用與展示政策)
+- en: level
+  simplified: 级，层
+  traditional: 級、層
+- en: lexical space
+  simplified: 词法空间
+  traditional: 詞法空間
+- en: libwww
+  simplified: libwww（WWW函数库）
+  traditional: libwww (WWW函式庫)
+- en: line-mode
+  simplified: （命令）行模式
+  traditional: (命令) 列模式
+- en: SVG (Scalable vector graphics)
+  simplified: 可扩展矢量图形
+  traditional: SVG (可縮放向量圖)
+- en: namespace
+  simplified: 命名空间
+  traditional: 命名空間
+- en: linkbases
+  simplified: 链接库
+  traditional: 鏈結基準
+- en: linking element
+  simplified: 链接元素
+  traditional: 鏈結元素
+- en: Mixed Content
+  simplified: '<a href="http://www.chinaw3c.org/archives/570/" target="_blank">混合内容</a>'
+  traditional: ''
+- en: Media stream recording
+  simplified: '<a href="http://www.chinaw3c.org/archives/95/" target="_blank">媒体流录制</a>'
+  traditional: ''
+- en: Media Source Extension
+  simplified: 媒体源扩展
+  traditional: ''
+- en: Media Capture
+  simplified: '<a href="http://www.chinaw3c.org/archives/546/" target="_blank">媒体捕捉</a>'
+  traditional: ''
+- en: Media Annotation
+  simplified: 媒体注释
+  traditional: ''
+- en: Media Accessibility User Requirements
+  simplified: '<a href="http://www.chinaw3c.org/archives/595/">媒体可访问性用户需求</a>'
+  traditional: ''
+- en: MBUI(model-based user interface)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/383/"
+    target="_blank">基于模型的用户界面</a>
+  traditional: ''
+- en: list
+  simplified: 列表
+  traditional: 列表
+- en: margin
+  simplified: >-
+    <a href="http://www.w3.org/TR/CSS21/box.html#box-margin-area"
+    target="_blank">(CSS)边界</a>
+  traditional: 邊界
+- en: Manifest for web apps and bookmarks
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/372/"
+    target="_blank">Web应用清单及书签</a>
+  traditional: ''
+- en: linked data
+  simplified: 互联数据，链接数据
+  traditional: 鏈結資料
+- en: literal
+  simplified: 字面
+  traditional: 字面
+- en: literal entity value
+  simplified: 字面实体值
+  traditional: 字面實體值
+- en: live
+  simplified: 使用中的
+  traditional: 使用中的
+- en: local name
+  simplified: 本地名
+  traditional: 本地名稱
+- en: local part
+  simplified: 本地部分
+  traditional: 本地部分
+- en: local resource
+  simplified: 本地资源
+  traditional: 本地資源
+- en: logic
+  simplified: 逻辑
+  traditional: 邏輯
+- en: longfellow
+  simplified: longfellow
+  traditional: longfellow (W3C 電話會議的 24 線連接器)
+- en: loose coupling
+  simplified: 松散耦合
+  traditional: 鬆散耦合
+- en: lossless compression
+  simplified: 无损压缩
+  traditional: 無失真壓縮
+- en: lossy compression
+  simplified: 有损压缩
+  traditional: 失真壓縮
+- en: luminance
+  simplified: 辉度，流明
+  traditional: 輝度
+- en: LZ77
+  simplified: LZ77（数据压缩算法）
+  traditional: LZ77 (資料壓縮演算法)
+- en: machine understandable
+  simplified: 机器可理解的
+  traditional: 機器可理解的
+- en: manageable service
+  simplified: 可管理的服务
+  traditional: 可管理的服務
+- en: management
+  simplified: 管理
+  traditional: 管理
+- en: management capability
+  simplified: 管理能力
+  traditional: 管理能力
+- en: management interface
+  simplified: 管理界面
+  traditional: 管理界面
+- en: management policy
+  simplified: 管理策略
+  traditional: 管理政策
+- en: management semantics
+  simplified: 管理语义
+  traditional: 管理中的語義
+- en: MARC record
+  simplified: 机读目录记录
+  traditional: 機讀目錄記錄 (MAchine Readable Cataloging record)
+- en: markup
+  simplified: 标记
+  traditional: 標記
+- en: markup declaration
+  simplified: 标记声明
+  traditional: 標記宣告
+- en: markup language
+  simplified: 标记语言
+  traditional: 標記語言
+- en: markup model
+  simplified: 标记模型
+  traditional: 標記模型
+- en: match
+  simplified: 匹配
+  traditional: 匹配
+- en: mathematical markup language (MathML)
+  simplified: 数学标记语言
+  traditional: 數學標記語言 (MathML)
+- en: mathML element
+  simplified: mathML元素
+  traditional: mathML 元素
+- en: mathML expression (within some valid mathML
+  simplified: mathML表达式
+  traditional: mathML 表達式
+- en: may
+  simplified: 可以
+  traditional: 可以
+- en: member
+  simplified: 会员
+  traditional: 會員
+- en: menu
+  simplified: 菜单
+  traditional: 選單
+- en: message
+  simplified: 消息
+  traditional: 訊息
+- en: message correlation
+  simplified: 消息相关性
+  traditional: 訊息相關性
+- en: message exchange pattern (MEP)
+  simplified: 消息交换模式
+  traditional: 訊息交換模式 (MEP)
+- en: message reliability
+  simplified: 消息可靠性
+  traditional: 訊息可靠度
+- en: message sender
+  simplified: 消息发送者
+  traditional: 訊息發送者
+- en: message transport
+  simplified: 消息传递
+  traditional: 訊息傳輸
+- en: meta-
+  simplified: 元的（前缀，表示一个事物应用于其自身）
+  traditional: 元的 (前綴、表示一個事物應用於其自身)、後設的
+- en: metadata
+  simplified: 元数据
+  traditional: 詮釋資料、後設資料(用於描述數據的數據)
+- en: metaphysical
+  simplified: 形而上的
+  traditional: 形而上的
+- en: micropayments
+  simplified: 小额支付
+  traditional: 小額付款
+- en: 'minimal constraint, principle of'
+  simplified: 最小约束原则
+  traditional: 最小約束原則
+- en: MIT (Massachusetts institute of technology)
+  simplified: MIT（麻省理工学院，W3C总部之一）
+  traditional: MIT (麻省理工學院)
+- en: mixed content
+  simplified: 混合内容
+  traditional: 混合內容
+- en: mixed initiative
+  simplified: 混合式驱动
+  traditional: 混合式驅動
+- en: modality
+  simplified: 模态
+  traditional: 模態
+- en: model binding expression
+  simplified: 模型绑定表达式
+  traditional: 模型繫結表達式
+- en: named class
+  simplified: 命名类
+  traditional: 具名類別
+- en: link text
+  simplified: 链接文字
+  traditional: 鏈結文字
+- en: model item
+  simplified: 模型项
+  traditional: 模型項目
+- en: model item property
+  simplified: 模型项属性
+  traditional: 模型項目屬性
+- en: model theory
+  simplified: 模型理论
+  traditional: 模型理論
+- en: modularization model
+  simplified: 模块化模型
+  traditional: 模組化模型
+- en: module
+  simplified: 模块
+  traditional: 模組
+- en: monoruby
+  simplified: 单一旁注（monoruby）
+  traditional: 單一旁註 (monoruby)
+- en: monotonic
+  simplified: 单调性
+  traditional: 單調性
+- en: mosaic
+  simplified: mosaic（最早的浏览器）
+  traditional: mosaic (最早出現在 Internet 上的 Web 瀏覽器)
+- en: multi-purpose internet mail extensions (MIME)
+  simplified: 多用途互联网邮件扩展协议（MIME）
+  traditional: 多用途網際網路郵件延伸協定 (MIME)
+- en: must
+  simplified: 必须
+  traditional: 必須
+- en: mystic
+  simplified: mystic
+  traditional: mystic (W3C 電話會議的 6 線連接器)
+- en: name
+  simplified: 名、名字、命名
+  traditional: 名稱、名字
+- en: top-level element (of mathML)
+  simplified: MathML的顶级元素
+  traditional: (mathML 的) 最高層元素
+- en: personal digital assistant (PDA)
+  simplified: 个人数字助理（PDA）
+  traditional: 個人數位助理 (PDA)
+- en: performance timeline
+  simplified: '<a href="http://www.chinaw3c.org/archives/357/" target="_blank">性能时间基线</a>'
+  traditional: ''
+- en: parse
+  simplified: 解析
+  traditional: 解析
+- en: padding
+  simplified: >-
+    <a href="http://www.w3.org/TR/CSS21/box.html#box-padding-area"
+    target="_blank">边距</a>
+  traditional: 邊距
+- en: numeric character reference
+  simplified: >-
+    <a href="http://www.w3.org/TR/html5/syntax.html#character-references"
+    target="_blank">(HTML)数字型字符引用</a>
+  traditional: 數字型字符引用
+- en: namespace prefix
+  simplified: 命名空间前缀
+  traditional: 命名空間前綴
+- en: NFC（near field communication）
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/391/ "
+    target="_blank">NFC(近场通信)</a>
+  traditional: ''
+- en: near field communication
+  simplified: '<a href="http://www.chinaw3c.org/archives/391/" target="_blank">近场通讯</a>'
+  traditional: ''
+- en: navigation timing
+  simplified: '<a href="http://www.chinaw3c.org/archives/474/" target="_blank">导航计时</a>'
+  traditional: ''
+- en: namespace-valid
+  simplified: 命名空间有效
+  traditional: 命名空間有效的
+- en: namespace-validating
+  simplified: 命名空间验证中
+  traditional: 命名空間驗證
+- en: namespace-well-formed
+  simplified: 良构命名空间
+  traditional: 命名空間良構的
+- en: natural language
+  simplified: 自然语言
+  traditional: 自然語言
+- en: navigation
+  simplified: 导航
+  traditional: 導覽
+- en: navigation bars
+  simplified: 导航栏
+  traditional: 導覽欄
+- en: navigation mechanism
+  simplified: 导航机制
+  traditional: 導覽機制
+- en: NCSA (National center for supercomputing applications)
+  simplified: 美国国家超级计算应用中心
+  traditional: NCSA (美國國家超級應用計算中心)
+- en: negotiate content
+  simplified: 协商内容
+  traditional: 協商內容
+- en: negotiation metadata
+  simplified: 协商元数据
+  traditional: 協商詮釋資料
+- en: 'nelson, ted'
+  simplified: ''
+  traditional: 泰德‧尼爾森
+- en: net
+  simplified: 网，网络
+  traditional: 網路
+- en: network byte order
+  simplified: 网络字节顺序
+  traditional: 網路位元組順序
+- en: person or organization
+  simplified: 个人或组织
+  traditional: 個人或組織
+- en: new
+  simplified: 新的、新生成
+  traditional: 新的
+- en: neXT
+  simplified: ''
+  traditional: neXT (公司名稱)
+- en: NNTP (Network news transfer protocol)
+  simplified: 网络新闻传输协议
+  traditional: NNTP (網路新聞傳輸協定)
+- en: node
+  simplified: 节点
+  traditional: 節點
+- en: non-repudiation
+  simplified: 不可否认性
+  traditional: 不可否認性 *
+- en: non-variant content
+  simplified: 无差异内容
+  traditional: 無變異內容
+- en: none
+  simplified: 无
+  traditional: 無
+- en: nonmonotonic
+  simplified: 非单调的
+  traditional: 非單調的
+- en: normative text
+  simplified: 规范的文本
+  traditional: 標準的文本
+- en: 'normative, informative'
+  simplified: 规范的，参考性的
+  traditional: 規範性的、參考性的
+- en: permission guard
+  simplified: 权限保护
+  traditional: 許可保護機制
+- en: notation declarations
+  simplified: 符号声明
+  traditional: 符號宣告
+- en: notations
+  simplified: 符号、标记
+  traditional: 符號、記法
+- en: note
+  simplified: 备忘（Group Note）
+  traditional: 筆記
+- en: object
+  simplified: 对象
+  traditional: 物件、對象
+- en: object property
+  simplified: 对象属性
+  traditional: 物件屬性
+- en: obligation
+  simplified: 义务
+  traditional: 義務
+- en: occurs as attribute value
+  simplified: 作为属性值出现
+  traditional: 作為屬性值出現
+- en: office
+  simplified: 办事处
+  traditional: 辦事處
+- en: onLoad
+  simplified: 加载（事件）
+  traditional: onLoad
+- en: onRequest
+  simplified: 请求到来（事件）
+  traditional: onRequest
+- en: ontological
+  simplified: 本体论的
+  traditional: 本體論的、知識本體的
+- en: permission
+  simplified: 权限，许可
+  traditional: 許可
+- en: perceivable unit
+  simplified: 可感知单元
+  traditional: 可感知單元
+- en: ontology
+  simplified: 本体
+  traditional: 本體論、知識本體
+- en: ontology document
+  simplified: 本体文档
+  traditional: 本體文件、知識本體文件
+- en: open source
+  simplified: 开源，开放源码
+  traditional: 開放源碼
+- en: openMath
+  simplified: ''
+  traditional: openMatch
+- en: operating environment
+  simplified: 操作环境
+  traditional: 作業環境
+- en: operation
+  simplified: 操作
+  traditional: 操作
+- en: 'operator, an mo element'
+  simplified: ''
+  traditional: 操作符，某個 mo 元素
+- en: 'operator, content element'
+  simplified: 操作者（运营商），内容元素
+  traditional: 操作符，內容元素
+- en: optional
+  simplified: 可选，可选择的
+  traditional: 可選擇的
+- en: optional behaviors
+  simplified: 可选择行为
+  traditional: 可選擇行為
+- en: optional features
+  simplified: 可选择特性
+  traditional: 可選擇特徵
+- en: orchestration
+  simplified: (web服务）编排
+  traditional: 編排
+- en: origin server
+  simplified: 源服务器
+  traditional: 原始伺服器
+- en: other
+  simplified: 其他
+  traditional: 其他
+- en: payload security
+  simplified: 载荷安全
+  traditional: 負載安全性
+- en: otherwise
+  simplified: 否则
+  traditional: 否則
+- en: path
+  simplified: 路径
+  traditional: 路徑
+- en: outbound
+  simplified: 流出
+  traditional: 流出
+- en: pass phrase key
+  simplified: 通行密钥
+  traditional: 通關密語
+- en: output modalities
+  simplified: 输出模态
+  traditional: 輸出模態
+- en: override
+  simplified: 重载，改写
+  traditional: 重載、改寫
+- en: OWL class
+  simplified: OWL 类
+  traditional: OWL 類別
+- en: OWL Web Ontology Language Guide
+  simplified: OWL Web本体语言指南
+  traditional: OWL 網路本體語言指南
+- en: packet
+  simplified: （网络）包
+  traditional: 封包
+- en: page view
+  simplified: 页面视图
+  traditional: 頁面閱覽模式
+- en: palette
+  simplified: 调色板
+  traditional: 調色板
+- en: parameter entity
+  simplified: 参数实体
+  traditional: 參數實體
+- en: parameter-entity references
+  simplified: 参数实体引用
+  traditional: 參數實體參照
+- en: parent
+  simplified: 父（节点）
+  traditional: 親代(節點)、父(節點)、母(節點)
+- en: parent document type
+  simplified: 父类文件类型
+  traditional: 父文件類別
+- en: parsed character data (PCDATA)
+  simplified: 已解析字符数据
+  traditional: 已剖析字符資料 (PCDATA)
+- en: parsed entity
+  simplified: 已解析实体
+  traditional: 已剖析實體
+- en: parsing
+  simplified: 解析
+  traditional: 剖析
+- en: partial understanding
+  simplified: 部分理解
+  traditional: 部分理解
+- en: participate
+  simplified: 参与、参加
+  traditional: 參與
+- en: pass extraction
+  simplified: 传递抽取
+  traditional: （一或多) 階段擷取
+- en: user experience
+  simplified: 用户体验
+  traditional: 使用者體驗
+- en: remote resource
+  simplified: 远程资源
+  traditional: 遠端資源
+- en: Referrer Policy
+  simplified: '<a href="http://www.chinaw3c.org/archives/584/" target="_blank">来路策略</a>'
+  traditional: ''
+- en: Referrer
+  simplified: 来路（HTTP Header）
+  traditional: ''
+- en: reify
+  simplified: 具体化
+  traditional: 具體化
+- en: realtime
+  simplified: 实时
+  traditional: 即時
+- en: Raw Socket
+  simplified: '<a href="http://www.chinaw3c.org/archives/149/" target="_blank">原始套接字</a>'
+  traditional: ''
+- en: query
+  simplified: 查询
+  traditional: ''
+- en: push API
+  simplified: 推送API
+  traditional: ''
+- en: Proximity Events
+  simplified: '<a href="http://www.chinaw3c.org/archives/295/" target="_blank">接近事件</a>'
+  traditional: ''
+- en: Progress Events
+  simplified: '<a href="http://www.chinaw3c.org/archives/422/" target="_blank">进度事件</a>'
+  traditional: ''
+- en: processing instruction value
+  simplified: '<a href="http://xml.ascc.net/zh/utf-8/gloss.html" target="_blank">处理指令值</a>'
+  traditional: 處理指令值
+- en: processing instruction target
+  simplified: '<a href="http://xml.ascc.net/zh/utf-8/gloss.html" target="_blank">处理指令标的</a>'
+  traditional: 處理指令標的
+- en: primer
+  simplified: 导言，入门
+  traditional: ''
+- en: port
+  simplified: 端口
+  traditional: ''
+- en: Polyglot Markup
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/569/   "
+    target="_blank">Polyglot标记（语言）</a>
+  traditional: ''
+- en: pointer lock
+  simplified: '<a href="http://www.chinaw3c.org/archives/371/" target="_blank">指针锁定</a>'
+  traditional: ''
+- en: PICS (Platform for Internet Content Selection)
+  simplified: 互联网内容选择平台
+  traditional: PICS (網路內容篩選平台)
+- en: pixel
+  simplified: 像素
+  traditional: 像素
+- en: registry
+  simplified: 注册、登记、注册表
+  traditional: 註冊、登記
+- en: PKC (public key cryptography)
+  simplified: 公钥密码体制
+  traditional: PKC (公開金鑰密碼學)
+- en: PKI (Public key infrastructure)
+  simplified: 公钥基础设施，公共密钥基础设施
+  traditional: PKI (公開金鑰基礎建設)
+- en: placeholder
+  simplified: 占位符
+  traditional: 佔位符
+- en: plug-in
+  simplified: 插件
+  traditional: 外掛
+- en: PNG (Portable network graphics)
+  simplified: 可移植网络图形
+  traditional: PNG (可攜式網路圖像格式)
+- en: PNG datastream
+  simplified: PNG数据流
+  traditional: PNG 資料流
+- en: PNG decoder
+  simplified: PNG解码器
+  traditional: PNG 解碼器
+- en: PNG editor
+  simplified: PNG编辑器
+  traditional: PNG 編輯器
+- en: PNG encoder
+  simplified: PNG编码器
+  traditional: PNG 編碼器
+- en: PNG file
+  simplified: PNG文件
+  traditional: PNG 檔案
+- en: PNG four-byte signed integer
+  simplified: PNG四字节有符号整数
+  traditional: PNG 四位元組有號整數
+- en: PNG four-byte unsigned integer
+  simplified: PNG四字节无符号整数
+  traditional: PNG 四位元組無號整數
+- en: PNG image
+  simplified: PNG图形
+  traditional: PNG 圖形
+- en: PNG signature
+  simplified: PNG签名
+  traditional: PNG 簽章
+- en: point
+  simplified: 点
+  traditional: 點
+- en: point of regard
+  simplified: 视点
+  traditional: 注視點、視點
+- en: pointer
+  simplified: 指针
+  traditional: 指標
+- en: pointer part
+  simplified: 指针部分
+  traditional: 指標部分
+- en: policy
+  simplified: 策略
+  traditional: 政策
+- en: practice
+  simplified: 实践
+  traditional: 實踐、常規
+- en: pre-defined function
+  simplified: 预定义函数
+  traditional: 預先定義函數
+- en: preceding element
+  simplified: 前序元素
+  traditional: 前序元素
+- en: preference
+  simplified: 偏好
+  traditional: 偏好、偏愛
+- en: reference in entity value
+  simplified: 实体值引用
+  traditional: 實體值參考
+- en: presentation elements
+  simplified: 表达元素
+  traditional: 表達元素
+- en: presentation layout schema
+  simplified: 表达元素大纲
+  traditional: 表達佈局綱目
+- en: presentation markup
+  simplified: 表达标记
+  traditional: 表達標記
+- en: presentation token element
+  simplified: 表达标记（令牌）元素
+  traditional: 表達標記元素
+- en: preserve
+  simplified: 保持
+  traditional: 保持
+- en: principal
+  simplified: 主实体、可验证实体
+  traditional: 主實體、可驗証實體 *
+- en: priority 1 (P1)
+  simplified: 第1优先
+  traditional: 第 1 優先
+- en: priority 2 (P2)
+  simplified: 第2优先
+  traditional: 第 2 優先
+- en: priority 3 (P3)
+  simplified: 第3优先
+  traditional: 第 3 優先
+- en: privacy
+  simplified: 隐私
+  traditional: 隱私
+- en: privacy policy
+  simplified: 隐私策略
+  traditional: 隱私政策
+- en: process
+  simplified: 进程、流程、处理
+  traditional: 行程
+- en: processing instructions
+  simplified: 处理指令
+  traditional: 處理指令(PIs) *
+- en: profile
+  simplified: 设置文件、个人设定
+  traditional: profile、個人設定、設置文件
+- en: profiling
+  simplified: (从测试运行中）收集数据
+  traditional: 設置文件
+- en: prompt
+  simplified: 提示
+  traditional: 提示、提示輸入
+- en: proof of possession (POP)
+  simplified: 所有权证明
+  traditional: 證明所有權 (POP)
+- en: property definition
+  simplified: 属性定义
+  traditional: 屬性定義
+- en: Proposed Edited Recommendation
+  simplified: 已编辑（更新）的提案推荐标准
+  traditional: 已編輯提案推薦標準
+- en: Proposed Recommendation (PR)
+  simplified: 提案推荐标准
+  traditional: 提案推薦標準 (PR)
+- en: proposition
+  simplified: 命题
+  traditional: 命題
+- en: protection
+  simplified: 保护
+  traditional: 保護
+- en: protocol
+  simplified: 协议
+  traditional: 協定
+- en: provider agent
+  simplified: 供应(商)代理
+  traditional: 供應 (商) 代理
+- en: provider entity
+  simplified: 提供者实体
+  traditional: 供應實體
+- en: proximity position
+  simplified: 近似位置
+  traditional: 近似位置
+- en: proxy
+  simplified: 代理、代理服务器
+  traditional: 代理、代理伺服器
+- en: public identifier
+  simplified: 公共标识符
+  traditional: 公開識別碼、公開識別符
+- en: reference in DTD
+  simplified: DTD引用
+  traditional: DTD 參考
+- en: publish
+  simplified: 发布、发表
+  traditional: 發表、發佈
+- en: publisher
+  simplified: 发布者、发表人
+  traditional: 發表人、發佈者
+- en: purpose
+  simplified: 目的、意图
+  traditional: 目的、意圖
+- en: qualifier
+  simplified: 限定符
+  traditional: 限定符
+- en: quality of service
+  simplified: 服务质量，QoS
+  traditional: 服務品質、QoS
+- en: RDF resource
+  simplified: RDF资源
+  traditional: RDF 資源
+- en: reader
+  simplified: 读者、阅读器
+  traditional: 讀者
+- en: reading
+  simplified: 读法、读音
+  traditional: 讀法、讀音
+- en: REC
+  simplified: Recommendation缩写，W3C推荐标准
+  traditional: REC
+- en: receiver
+  simplified: 接收者
+  traditional: 接收者
+- en: recognize
+  simplified: 识别
+  traditional: 辨識
+- en: recommendation
+  simplified: （W3C的）推荐标准
+  traditional: 推薦標準、推薦
+- en: reduced image
+  simplified: 精简图像
+  traditional: 簡化過的圖形
+- en: reference architecture
+  simplified: 参考架构
+  traditional: 參考架構
+- en: reference image
+  simplified: 参考图像
+  traditional: 參考圖形
+- en: PGP (Pretty good privacy)
+  simplified: PGP（一种混合加密算法）
+  traditional: PGP (良好隱私系統)
+- en: reference in attribute value
+  simplified: 属性值引用
+  traditional: 屬性值參考
+- en: reference in content
+  simplified: 内容引用
+  traditional: 內容參考
+- en: web page
+  simplified: Web 页面
+  traditional: 網頁
+- en: SMIL (Synchronized multimedia integration language)
+  simplified: 同步多媒体集成语言
+  traditional: SMIL (同步多媒體整合語言)
+- en: signature
+  simplified: '<a href="http://www.chinaw3c.org/archives/124/" target="_blank">签名，数字签名</a>'
+  traditional: ''
+- en: shape
+  simplified: '<a href="http://www.chinaw3c.org/archives/463/" target="_blank">（CSS）形状</a>'
+  traditional: ''
+- en: shadow DOM
+  simplified: '<a href="http://www.chinaw3c.org/archives/545/" target="_blank">影子DOM</a>'
+  traditional: ''
+- en: Screen Orientation
+  simplified: '<a href="http://www.chinaw3c.org/archives/443/" target="_blank">屏幕方向</a>'
+  traditional: ''
+- en: sample rate
+  simplified: 采样率
+  traditional: 取樣頻率
+- en: Ruby markup
+  simplified: '<a href="http://www.chinaw3c.org/archives/308/" target="_blank">旁注标记</a>'
+  traditional: ''
+- en: Ruby layout
+  simplified: '<a href="http://www.chinaw3c.org/archives/580/" target="_blank">旁注布局</a>'
+  traditional: ''
+- en: RIF (rule interchange format)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/94/"
+    target="_blank">RIF(规则交换格式)</a>
+  traditional: ''
+- en: responsive image
+  simplified: 交互式图片，响应式图片
+  traditional: ''
+- en: responsive design
+  simplified: 交互式设计，响应式设计
+  traditional: ''
+- en: resource timing
+  simplified: '<a href="http://www.chinaw3c.org/archives/549/" target="_blank">资源计时</a>'
+  traditional: ''
+- en: size and color of non-text content
+  simplified: 非文本内容的字体大小和颜色
+  traditional: 非文本內容的字體和顏色
+- en: rendered text
+  simplified: 渲染的/呈现的文本
+  traditional: '顯示的內容, 顯示的文字'
+- en: rendered content
+  simplified: 渲染的/呈现的内容
+  traditional: 顯示的內容
+- en: 'rendered content, rendered text'
+  simplified: ''
+  traditional: '顯示的內容, 顯示的文字'
+- en: rendering preferences
+  simplified: 渲染偏好（设定）
+  traditional: 顯示的偏好設定
+- en: 'repair content, repair text'
+  simplified: 修复内容、修复文本
+  traditional: 修復內容，修復文本
+- en: replace
+  simplified: 替换
+  traditional: 代替
+- en: replaced element
+  simplified: 被替换的元素
+  traditional: 被替代的元素
+- en: replacement text
+  simplified: 替换文本
+  traditional: 替代文字
+- en: repository
+  simplified: 存储库，库
+  traditional: 資料倉儲
+- en: representation
+  simplified: 表达、表示、表现形式
+  traditional: 表現、表現形式
+- en: request
+  simplified: 请求
+  traditional: 聲請、請求
+- en: requester agent
+  simplified: 请求代理
+  traditional: 聲請者代理
+- en: requester entity
+  simplified: 请求实体
+  traditional: 聲請者實體
+- en: Rescinded Recommendation
+  simplified: 已撤销的推荐标准
+  traditional: 作廢的推薦標準
+- en: reserved
+  simplified: 保留的
+  traditional: 保留的
+- en: resource
+  simplified: 资源
+  traditional: 資源
+- en: resource Manifestation
+  simplified: 资源说明
+  traditional: 資源表徵
+- en: restriction
+  simplified: 约束
+  traditional: 約束
+- en: 'restriction, global'
+  simplified: 全域约束
+  traditional: 全域約束
+- en: 'restriction, local'
+  simplified: 局部约束、本地约束
+  traditional: 局域約束、本地約束
+- en: results verification
+  simplified: 结果验证
+  traditional: 結果確認
+- en: reverse document order
+  simplified: 反向文档顺序
+  traditional: 反向文件順序
+- en: RFC (Request for comments)
+  simplified: 征求意见（IETF的标准格式）
+  traditional: RFC (徵求評論)
+- en: RGB merging
+  simplified: RGB合并
+  traditional: RGB 合併
+- en: root
+  simplified: 根
+  traditional: 根
+- en: RPC (remote procedure call)
+  simplified: 远程过程调用
+  traditional: RFC (遠端程序呼叫)
+- en: RSA
+  simplified: RSA (一种加密算法)
+  traditional: RSA (加密演算法)
+- en: ruby text
+  simplified: 旁注（Ruby）文本
+  traditional: 旁註 (ruby) 文字
+- en: safe
+  simplified: 安全的
+  traditional: 安全的
+- en: safe zone
+  simplified: 安全区域
+  traditional: 安全區域
+- en: sample
+  simplified: 样本，采样
+  traditional: 樣本 *
+- en: sample depth
+  simplified: 采样深度、样本深度
+  traditional: 取樣深度 *
+- en: sample depth scaling
+  simplified: 样本深度缩放
+  traditional: 樣本深度縮放 *
+- en: site maps
+  simplified: 网站地图
+  traditional: 網站地圖
+- en: satisfy
+  simplified: 满足
+  traditional: 滿足
+- en: scanline
+  simplified: 扫描线
+  traditional: 掃描線
+- en: schema
+  simplified: 大纲
+  traditional: 綱目
+- en: 'schema (pl., schemata)'
+  simplified: ''
+  traditional: 綱目 (複數，schemata)
+- en: schema constraint
+  simplified: 大纲约束
+  traditional: 綱目約束
+- en: schema representation constraint
+  simplified: 大纲表达约束
+  traditional: 綱目表示約束
+- en: 'schema, RDF schema'
+  simplified: RDF大纲
+  traditional: RDF 綱目
+- en: scheme
+  simplified: ''
+  traditional: 綱目
+- en: scope of a declaration
+  simplified: 声明范围
+  traditional: 宣告範圍
+- en: screen magnifier
+  simplified: 屏幕放大镜
+  traditional: 螢幕放大鏡
+- en: screen reader
+  simplified: 屏幕阅读器
+  traditional: 螢幕朗讀器
+- en: scribe
+  simplified: 速记
+  traditional: 會議記錄員
+- en: script
+  simplified: 脚本
+  traditional: 腳本語言、腳本
+- en: security
+  simplified: 安全性
+  traditional: 安全性
+- en: security administration
+  simplified: 安全管理
+  traditional: 安全管理
+- en: security architecture
+  simplified: 安全架构
+  traditional: 安全架構
+- en: security auditing
+  simplified: 安全审计
+  traditional: 安全審核
+- en: security domain
+  simplified: 安全域
+  traditional: 安全領域
+- en: security mechanism
+  simplified: 安全机制
+  traditional: 安全機制
+- en: security model
+  simplified: 安全模型
+  traditional: 安全模型
+- en: security policy
+  simplified: 安全策略
+  traditional: 安全性政策
+- en: security policy expression
+  simplified: 安全策略表达
+  traditional: 安全全性政策表達式
+- en: security service
+  simplified: 安全服务
+  traditional: 安全服務
+- en: selected sub-expression (of an maction element)
+  simplified: （maction元素）的选定子表达式
+  traditional: (maction 元素的) 選擇性子表達式
+- en: 'selection, current selection'
+  simplified: 选定、当前选定
+  traditional: 選擇、目前選擇
+- en: semantic
+  simplified: 语义的
+  traditional: 語意的
+- en: semantic requirement
+  simplified: 语义需求
+  traditional: 語意需求 (同&ldquo;測試斷言&rdquo;)
+- en: semantic web
+  simplified: 语义Web，语义网
+  traditional: 語意網
+- en: semantically transparent
+  simplified: 语义透明的
+  traditional: 語意透明的
+- en: sender
+  simplified: 发送者
+  traditional: 發送者
+- en: separation of form from content
+  simplified: 内容与形式相分离
+  traditional: 內容形式相分離
+- en: 'serial access, sequential navigation'
+  simplified: 串行存取，顺序存取，顺序导航
+  traditional: 循序存取、循序導航
+- en: server
+  simplified: 服务器
+  traditional: 服務提供者、伺服器端程序
+- en: server session
+  simplified: 服务器会话
+  traditional: 伺服器 session
+- en: service
+  simplified: 服务
+  traditional: 服務
+- en: service interface
+  simplified: 服务接口
+  traditional: 服務界面
+- en: service intermediary
+  simplified: 服务中介
+  traditional: 服務中介
+- en: simple ruby markup
+  simplified: 简单旁注（ruby）标记
+  traditional: 簡單旁註 (ruby) 標記
+- en: service provider
+  simplified: 服务提供者、服务提供商
+  traditional: 服務提供者
+- en: 'service provider (Data controller, legal entity)'
+  simplified: 服务提供者、服务提供商（数据控制者、法人实体）
+  traditional: 服務提供者 (資料管理員、法人實體)
+- en: service requester
+  simplified: 服务请求者
+  traditional: 服務聲請者
+- en: service role
+  simplified: 服务角色
+  traditional: 服務角色
+- en: service semantics
+  simplified: 服务语义
+  traditional: 服務語意
+- en: service-oriented architecture
+  simplified: 面向服务的体系结构
+  traditional: 服務導向架構
+- en: session
+  simplified: 会话
+  traditional: session
+- en: SGML (Standard generalized markup language)
+  simplified: 标准通用标记语言，标准通用置标语言
+  traditional: SGML (標準通用標記語言)
+- en: shall
+  simplified: 必须
+  traditional: 必須
+- en: should
+  simplified: 应该
+  traditional: 應該
+- en: sibling
+  simplified: 同科，同属
+  traditional: 兄弟
+- en: simple link
+  simplified: 简单链接
+  traditional: 簡單鏈結
+- en: simple links
+  simplified: ''
+  traditional: 簡單鏈結 (複數)
+- en: render
+  simplified: 渲染
+  traditional: 顯示
+- en: tracing
+  simplified: 追踪
+  traditional: 追蹤
+- en: UI or action binding expression
+  simplified: 用户界面 或 动作绑定表达式
+  traditional: 使用者界面或動作的繫結表達式
+- en: TTML(Timed text markup language)
+  simplified: '<a href="http://www.chinaw3c.org/archives/500/" target="_blank">时序文本标记语言</a>'
+  traditional: ''
+- en: Triples
+  simplified: '<a href="http://www.chinaw3c.org/archives/389/" target="_blank">(RDF) 元组</a>'
+  traditional: ''
+- en: Transitions
+  simplified: >-
+    <a href="http://www.w3.org/TR/css3-transitions/"
+    target="_blank">(CSS)渐变，过渡效果</a>
+  traditional: 轉場
+- en: transform
+  simplified: >-
+    <a href="http://www.w3.org/TR/css3-2d-transforms/"
+    target="_blank">(CSS)变形</a>
+  traditional: 變形
+- en: tracking protection
+  simplified: 追踪保护
+  traditional: ''
+- en: tracking preference expression
+  simplified: '<a href="http://www.chinaw3c.org/archives/495/" target="_blank">追踪偏好表达</a>'
+  traditional: ''
+- en: Tracking Compliance and Scope
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/509/"
+    target="_blank">追踪合规性及适用范围</a>
+  traditional: ''
+- en: tracking
+  simplified: 追踪
+  traditional: 追蹤
+- en: TPAC (Technical Plenary and AC meeting)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/member-meetings.html#tpac"
+    target="_blank">W3C技术大会及顾问委员会会议</a>
+  traditional: ''
+- en: touch event
+  simplified: '<a href="http://www.chinaw3c.org/archives/328/" target="_blank">触摸事件</a>'
+  traditional: ''
+- en: timing
+  simplified: 计时，时机
+  traditional: ''
+- en: timed text
+  simplified: '<a href="http://www.chinaw3c.org/archives/500/" target="_blank">时序文本</a>'
+  traditional: ''
+- en: time line
+  simplified: '<a href="http://www.chinaw3c.org/archives/357/" target="_blank">（性能）时间基线</a>'
+  traditional: ''
+- en: Text to Speech ，TTS
+  simplified: TTS，语音合成
+  traditional: 'TTS (Text-To-Speech, 將文字轉換為語音的語音合成技術)'
+- en: Text Decoration
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/232/"
+    target="_blank">(CSS)文本修饰</a>
+  traditional: ''
+- en: techniques (for WCAG)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/578/" target="_blank">（WCAG
+    2.0）技巧</a>
+  traditional: ''
+- en: task force
+  simplified: 特别任务组
+  traditional: ''
+- en: tabular data
+  simplified: '<a href="http://www.chinaw3c.org/archives/563/" target="_blank">表格数据</a>'
+  traditional: ''
+- en: subresource integrity
+  simplified: '<a href="http://www.chinaw3c.org/archives/462/" target="_blank">子资源完整性</a>'
+  traditional: ''
+- en: specification
+  simplified: 规范
+  traditional: 規範
+- en: Sophia-Antipolis
+  simplified: Sophia-Antipolis，法国地名，位于法国南部，W3C ERCIM总部所在地。
+  traditional: 'sophia (地名: Sophia-Antipolis)'
+- en: social web
+  simplified: 社交网络，社会网络
+  traditional: ''
+- en: social federation
+  simplified: 社交网络联邦
+  traditional: ''
+- en: social application
+  simplified: 社交应用
+  traditional: ''
+- en: social activity
+  simplified: '<a href="http://www.chinaw3c.org/archives/572/" target="_blank">社交网络标准计划</a>'
+  traditional: ''
+- en: UCS(Universal Character Set)
+  simplified: UCS（通用字符集）
+  traditional: UCS (通用字符集)
+- en: social
+  simplified: 社交，社会
+  traditional: ''
+- en: SOAP binding
+  simplified: SOAP绑定
+  traditional: SOAP 繫結
+- en: SOAP body
+  simplified: SOAP体
+  traditional: SOAP 主體
+- en: SOAP envelope
+  simplified: SOAP信封
+  traditional: SOAP 信封
+- en: SOAP fault
+  simplified: SOAP错误
+  traditional: SOAP 錯誤
+- en: SOAP feature
+  simplified: SOAP特征、SOAP特性
+  traditional: SOAP 特徵
+- en: SOAP header
+  simplified: SOAP头
+  traditional: SOAP 標頭
+- en: SOAP header block
+  simplified: SOAP头区块
+  traditional: SOAP 標頭區塊
+- en: SOAP intermediary
+  simplified: SOAP中介
+  traditional: SOAP 中介
+- en: SOAP message
+  simplified: SOAP消息
+  traditional: SOAP 訊息
+- en: SOAP message exchange pattern (MEP)
+  simplified: SOAP消息交换模式
+  traditional: SOAP 訊息交換模式 (MEP)
+- en: SOAP message path
+  simplified: SOAP消息路径
+  traditional: SOAP 訊息路徑
+- en: SOAP node
+  simplified: SOAP节点
+  traditional: SOAP 節點
+- en: SOAP receiver
+  simplified: SOAP接收者
+  traditional: SOAP 接收者
+- en: SOAP role
+  simplified: SOAP角色
+  traditional: SOAP 角色
+- en: SOAP sender
+  simplified: SOAP发送者
+  traditional: SOAP 發送者
+- en: SOAP(Simple Object Access Protocol)
+  simplified: SOAP（简单对象访问协议）
+  traditional: SOAP (簡單物件存取協定)
+- en: sophia
+  simplified: ''
+  traditional: 'sophia (地名: Sophia-Antipolis)'
+- en: source document
+  simplified: 源文件，源文档
+  traditional: 原始文件、源文件
+- en: source image
+  simplified: 源图像
+  traditional: 原始圖形、源圖形
+- en: space-like (MathML expression)
+  simplified: （MathML表达）类空间
+  traditional: 類空 (MathML 表達式)
+- en: speech
+  simplified: 语音
+  traditional: 語音
+- en: SRGS (Speech recognition grammar specification)
+  simplified: 语音识别语法规范
+  traditional: SRGS (語音辨識語法規格)
+- en: SSML (Speech synthesis markup language)
+  simplified: 语音合成标记语言
+  traditional: SSML (語音合成標記語言)
+- en: stale
+  simplified: 陈旧的、过时的
+  traditional: 陳舊的、過時的
+- en: standard
+  simplified: 标准
+  traditional: 標準
+- en: standard generalized markup language (SGML)
+  simplified: 标准通用标记语言
+  traditional: 標準通用標記語言
+- en: start-tag
+  simplified: 起始标签
+  traditional: 起始標記
+- en: starting resource
+  simplified: 起始资源
+  traditional: 起始資源
+- en: state
+  simplified: 状态
+  traditional: 狀態
+- en: statement
+  simplified: 声明
+  traditional: 聲明
+- en: strict conformance
+  simplified: 严格一致
+  traditional: 嚴格一致
+- en: string identity matching
+  simplified: （字符）串匹配
+  traditional: (字符) 串匹配
+- en: string indexing
+  simplified: 字符串索引
+  traditional: 字串索引
+- en: string-value
+  simplified: 字符串值
+  traditional: 字串值
+- en: structural markup
+  simplified: 结构化的标记
+  traditional: 結構化標記
+- en: style sheet
+  simplified: 样式表，样式单
+  traditional: 樣式表
+- en: sub-expression (of a mathML expression)
+  simplified: （MathML表达式）子表达式
+  traditional: (mathML 表達式的) 子表達式
+- en: subdialog
+  simplified: 子对话
+  traditional: 子對話
+- en: submission
+  simplified: 提交
+  traditional: 提交的文件
+- en: subsite
+  simplified: 子站
+  traditional: 子站
+- en: suggested rendering rules for mathML presentation elements
+  simplified: MathML表示元素的建议渲染规则
+  traditional: 推薦的 mathML 表示元素渲染規則
+- en: supersite
+  simplified: 超站，父站
+  traditional: 父站（母站）
+- en: 'support, implement, conform'
+  simplified: 支持，实现，符合
+  traditional: 支援、實作、符合
+- en: supported
+  simplified: ''
+  traditional: 支援的
+- en: SOAP application
+  simplified: SOAP应用
+  traditional: SOAP 應用軟體
+- en: synchronize
+  simplified: 同步
+  traditional: 同步
+- en: synchronous
+  simplified: 同步的
+  traditional: 同步的
+- en: system entity
+  simplified: 系统实体
+  traditional: 系統實體
+- en: system identifier
+  simplified: 系统标识符
+  traditional: 系統識別符
+- en: sysWeb
+  simplified: W3C系统网络组
+  traditional: sysWeb (W3C 系統網絡組)
+- en: tables of contents
+  simplified: 目录
+  traditional: 目錄
+- en: tabular information
+  simplified: 表格信息
+  traditional: 表格式資訊
+- en: tag
+  simplified: >-
+    <a href="http://www.w3.org/TR/html5/syntax.html#syntax-tags"
+    target="_blank">标签</a>
+  traditional: 標籤
+- en: TAG (Technical Architechture Group)
+  simplified: 技术架构组
+  traditional: TAG (W3C 技術架構組)
+- en: tangle
+  simplified: tangle（程序名）
+  traditional: tangle (程式名)
+- en: tapered prompts
+  simplified: 缩进提示
+  traditional: 漸縮式提示
+- en: TCP (Transmission control protocol)
+  simplified: TCP（传输控制协议）
+  traditional: TCP (傳輸控制協定)
+- en: team
+  simplified: 团队
+  traditional: 團隊
+- en: technical architecture group
+  simplified: ''
+  traditional: 技術架構組
+- en: technical report
+  simplified: 技术报告
+  traditional: 技術報告
+- en: term taken verbatim from another source
+  simplified: 从其他资源逐字引用的术语
+  traditional: 自其他來源逐字沿用的術語
+- en: test area
+  simplified: 测试区
+  traditional: 測試區
+- en: test assertion
+  simplified: 测试断言
+  traditional: 測試斷言
+- en: test case
+  simplified: 测试案例
+  traditional: 測試案例
+- en: test framework
+  simplified: 测试框架
+  traditional: 測試框架
+- en: test purpose
+  simplified: 测试目的
+  traditional: 測試目的
+- en: test requirement
+  simplified: 测试需求
+  traditional: 測試需求、測試斷言
+- en: test suite
+  simplified: 测试套件
+  traditional: 測試集
+- en: TEX
+  simplified: TEX
+  traditional: TEX
+- en: text
+  simplified: 文本
+  traditional: 文本
+- en: 'text content, non-text content,non-text'
+  simplified: 文本内容、非文本内容、非文本
+  traditional: 文本內容、非文本內容、非文本
+- en: text decoration
+  simplified: 文本修饰
+  traditional: 文本修飾
+- en: text transcript
+  simplified: 文本副本、文本抄本
+  traditional: 文本抄本
+- en: the empty string
+  simplified: 空字符串
+  traditional: 空字串
+- en: third-party
+  simplified: 第三方
+  traditional: 第三方
+- en: throw
+  simplified: 抛出
+  traditional: 拋出
+- en: time parameters
+  simplified: 时间参数
+  traditional: 時間參數
+- en: TLS(Transport Layer Security)
+  simplified: TLS（传输层安全）
+  traditional: TLS (傳輸層安全性)
+- en: tobin
+  simplified: ''
+  traditional: 'tobin (人名: MauriceJ.Tobin)'
+- en: token
+  simplified: 标记、令牌
+  traditional: 標記、記號
+- en: token element
+  simplified: 标记元素
+  traditional: 標記元素
+- en: tokenized
+  simplified: 标记化的
+  traditional: 標記化的
+- en: topology
+  simplified: 拓扑，拓扑结构
+  traditional: 拓撲結構
+- en: typeface
+  simplified: 字体、字样
+  traditional: '字型 (例如長一, 平三這類的變化; 請一併參照 font 和 glyph)'
+- en: type
+  simplified: 类型
+  traditional: 類別
+- en: tunnel
+  simplified: 隧道、通道
+  traditional: 隧道、通道
+- en: TTS
+  simplified: ''
+  traditional: 'TTS (Text-To-Speech, 將文字轉換為語音的語音合成技術)'
+- en: trust service
+  simplified: 信任服务
+  traditional: 信任服務
+- en: truecolour
+  simplified: 真彩
+  traditional: 全彩
+- en: triple
+  simplified: 三倍数
+  traditional: 三元組
+- en: traversal
+  simplified: 遍历
+  traditional: 尋訪
+- en: transformation
+  simplified: 转换
+  traditional: 轉化、轉換
+- en: transcript
+  simplified: 抄本、誊本、副本
+  traditional: 抄本
+- en: transaction
+  simplified: 交易
+  traditional: 交易
+- en: virtual hypertext
+  simplified: 虚拟超文本
+  traditional: 虛擬超文本
+- en: ultimate SOAP receiver
+  simplified: 最终SOAP接收者
+  traditional: 最終 SOAP 接收者
+- en: viola
+  simplified: VIOLA语言 (未从W3C网站上找到这个语言）
+  traditional: viola 語言 (一種程式語言，不翻譯)
+- en: writing mode
+  simplified: '<a href="http://www.chinaw3c.org/archives/463/" target="_blank">书写模式</a>'
+  traditional: ''
+- en: WOFF(Web Open Font Format)
+  simplified: Web开放字体格式
+  traditional: ''
+- en: Website Accessibility Conformance Evaluation Methodology
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/407/"
+    target="_blank">Web站点信息无障碍标准符合性评估方法</a>
+  traditional: ''
+- en: web of things
+  simplified: 物联万维网
+  traditional: ''
+- en: web cryptography API
+  simplified: '<a href="http://www.chinaw3c.org/archives/473/" target="_blank">Web加密API</a>'
+  traditional: ''
+- en: WCAG-EM（Website Accessibility Conformance Evaluation Methodology)
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/407/"
+    target="_blank">WCAG-EM（Web站点信息无障碍标准符合性评估方法)</a>
+  traditional: ''
+- en: WCAG
+  simplified: >-
+    <a href="http://www.chinaw3c.org/archives/490/" target="_blank">WCAG
+    (Web内容可访问性指南)</a>
+  traditional: ''
+- en: wake lock
+  simplified: '<a href="http://www.chinaw3c.org/archives/594/" target="_blank">唤醒锁</a>'
+  traditional: ''
+- en: Visibility
+  simplified: '<a href="http://www.chinaw3c.org/archives/322/" target="_blank">（页面）可见性</a>'
+  traditional: ''
+- en: viewport
+  simplified: 视口
+  traditional: 閱覽範圍
+- en: vibration api
+  simplified: '<a href="http://www.chinaw3c.org/archives/546/" target="_blank">振动API</a>'
+  traditional: ''
+- en: vehicle information API
+  simplified: '<a href="http://www.chinaw3c.org/archives/512/" target="_blank">车辆信息API</a>'
+  traditional: ''
+- en: user timing
+  simplified: '<a href="http://www.chinaw3c.org/archives/357/" target="_blank">用户计时</a>'
+  traditional: ''
+- en: unified Han characters
+  simplified: 统一汉字集
+  traditional: 統一漢字集
+- en: WorldWideWeb (one word; no spaces)
+  simplified: 万维网
+  traditional: >-
+    <a
+    href="http://www.w3.org/People/Berners-Lee/WorldWideWeb.html">WorldWideWeb
+    (世界上第一個瀏覽器)</a>
+- en: world wide web
+  simplified: 万维网
+  traditional: 全球資訊網
+- en: world
+  simplified: 世界
+  traditional: 世界、領域
+- en: Working Group Note
+  simplified: 工作组备忘
+  traditional: 工作群組筆記
+- en: Working Draft (WD)
+  simplified: 工作草案（WD）
+  traditional: 工作草案
+- en: width (of a box)
+  simplified: （框）的宽度
+  traditional: (圖文框的) 寬度
+- en: white point
+  simplified: 白点
+  traditional: 白點
+- en: well-formedness constraint
+  simplified: 良构性约束
+  traditional: 良構性約束(限制、規範)、形式合法性約束(限制、規範)
+- en: well-formed
+  simplified: 良构的
+  traditional: 良構的
+- en: web site publisher
+  simplified: Web 站点发布者
+  traditional: 網站發佈者
+- en: web site
+  simplified: Web 站点
+  traditional: 網站
+- en: web service
+  simplified: Web 服务
+  traditional: web service
+- en: web server
+  simplified: Web 服务器
+  traditional: Web 伺服器
+- en: web response header
+  simplified: Web 响应头
+  traditional: Web 回應標頭
+- en: web response body
+  simplified: Web 响应体
+  traditional: Web 回應主體
+- en: web response
+  simplified: Web 响应
+  traditional: Web 回應
+- en: web resource
+  simplified: Web 资源
+  traditional: Web 資源
+- en: web request header
+  simplified: Web 请求头
+  traditional: Web 聲請標頭
+- en: web request body
+  simplified: Web 请求体
+  traditional: Web 聲請主體
+- en: web request
+  simplified: Web 请求
+  traditional: Web 聲請
+- en: web periphery
+  simplified: '<a href="http://www.w3.org/1999/05/WCA-terms/01" target="_blank">外围</a>'
+  traditional: Web 外層
+- en: web page identifier
+  simplified: Web 页面标示符
+  traditional: 網頁識別符
+- en: web neighborhood
+  simplified: Web 邻居
+  traditional: Web 鄰居
+- en: web core
+  simplified: Web 核心
+  traditional: Web 核心
+- en: web collection
+  simplified: Web 采集
+  traditional: Web 集合
+- en: web client
+  simplified: Web 客户端
+  traditional: Web 客戶端
+- en: web
+  simplified: 'Web, 万维网'
+  traditional: Web (全球資訊網)
+- en: WAIS (Wide area information servers)
+  simplified: WAIS （广域信息服务器）
+  traditional: 廣域資訊伺服器
+- en: WAI (Web accessibility initiative)
+  simplified: W3C信息无障碍计划
+  traditional: 資訊網可及性推動組織
+- en: W3C Recommendation (REC)
+  simplified: W3C 推荐标准 (REC)
+  traditional: W3C 推薦標準 (REC)
+- en: W3C recommendation
+  simplified: ''
+  traditional: W3C 推薦標準
+- en: W3C (World wide web consortium)
+  simplified: W3C (万维网联盟）
+  traditional: W3C (全球資訊網聯盟)
+- en: W3C
+  simplified: ''
+  traditional: W3C
+- en: VRML (Virtual reality modeling language)
+  simplified: VRML (虚拟现实建模语言）
+  traditional: 虛擬實境建模語言
+- en: VRML
+  simplified: ''
+  traditional: 虛擬實境建模語言
+- en: voiceXML interpreter context
+  simplified: VoiceXML 解释器上下文
+  traditional: voiceXML 直譯器語境
+- en: voiceXML interpreter
+  simplified: VoiceXML 解释器
+  traditional: voiceXML 直譯器
+- en: voiceXML document
+  simplified: VoiceXML 文件
+  traditional: voiceXML 文件
+- en: voice browser
+  simplified: 语音浏览器
+  traditional: 語音瀏覽器
+- en: voice
+  simplified: 语音
+  traditional: 語音
+- en: vocabulary
+  simplified: 词汇、词汇表
+  traditional: 詞彙
+- en: visualText
+  simplified: 可视文本
+  traditional: 視覺化文本
+- en: visual-only presentation
+  simplified: 纯视觉表示、纯视觉表现
+  traditional: 純視覺表示
+- en: visual track
+  simplified: 视觉追踪
+  traditional: 視覺追蹤
+- en: unconditional conformance
+  simplified: 无条件符合、无条件一致性
+  traditional: 無條件符合
+- en: uniform resource identifier
+  simplified: >-
+    <a href="http://xml.ascc.net/zh/utf-8/gloss.html"
+    target="_blank">统一资源标识符</a>
+  traditional: 統一資源識別符
+- en: 'view, viewport'
+  simplified: ''
+  traditional: 閱覽範圍
+- en: view
+  simplified: 视图
+  traditional: 閱覽模式
+- en: video
+  simplified: 视频
+  traditional: 視訊
+- en: versioning
+  simplified: 版本控制、版本管理
+  traditional: 版本化
+- en: variant content
+  simplified: 变量内容
+  traditional: 變體內容
+- en: variant
+  simplified: 变量
+  traditional: 變體
+- en: value space
+  simplified: 值空间、值域
+  traditional: 數值空間
+- en: validity constraint
+  simplified: 有效性约束
+  traditional: 有效性約束
+- en: validator
+  simplified: 验证器
+  traditional: 驗證器
+- en: 'validation, validate, validating'
+  simplified: 验证（名词），验证（动词），验证（名词）
+  traditional: '正確性確認、驗證: (名詞) 驗證、(動詞) 驗證、(動名詞) 驗證'
+- en: validation rule
+  simplified: 验证规则
+  traditional: 驗證規則
+- en: validation
+  simplified: 验证
+  traditional: (有效性) 驗證
+- en: validating processors
+  simplified: 验证处理器
+  traditional: 驗證處理器
+- en: valid style sheet
+  simplified: 有效的样式表
+  traditional: 有效的樣式表
+- en: valid mathML data
+  simplified: 有效的MathML数据
+  traditional: 有效的 mathML 資料
+- en: valid
+  simplified: 有效的
+  traditional: 有效的
+- en: User-input Web request
+  simplified: 用户输入Web请求
+  traditional: 使用者輸入式網路聲請
+- en: user styles
+  simplified: 用户样式、用户风格
+  traditional: 使用者樣式
+- en: user session
+  simplified: 用户会话
+  traditional: 使用者 session
+- en: 'user interface, user interface,'
+  simplified: 用户界面
+  traditional: 使用者介面
+- en: user experience preferences
+  simplified: 用户体验偏好
+  traditional: 使用者體驗偏好
+- en: user control of every user interface component
+  simplified: 每一个用户界面组件的用户控制
+  traditional: 每個使用者界面元件的使用者控制
+- en: user agent profile
+  simplified: 用户代理设置（设定）
+  traditional: 使用者代理人個人設定
+- en: user agent default styles
+  simplified: 用户代理的默认样式
+  traditional: 使用者代理人預設樣式
+- en: user agent (UA)
+  simplified: ''
+  traditional: 使用者代理人，UA
+- en: user agent
+  simplified: 用户代理
+  traditional: 使用者代理人，useragent
+- en: user
+  simplified: 用户
+  traditional: 使用者、用戶
+- en: use case
+  simplified: 用例
+  traditional: 使用案例、用例
+- en: use
+  simplified: 使用、采用
+  traditional: 使用、採用
+- en: usage scenario
+  simplified: 使用场景
+  traditional: 使用場景
+- en: usage auditing
+  simplified: 使用审计，使用审核
+  traditional: 使用審核
+- en: URL (Uniform resource locator)
+  simplified: ''
+  traditional: URL (一致資源定址器、統一資源定位器)
+- en: URL
+  simplified: 统一资源定位符
+  traditional: 一致資源定址器、統一資源定位器
+- en: URIs
+  simplified: ''
+  traditional: URIs
+- en: URI(Uniform Resource Indicator)
+  simplified: ''
+  traditional: URI (統一資源指示器、一致資源定址器、統一資源指示器)
+- en: URI reference
+  simplified: URI引用
+  traditional: URI 參照
+- en: URI (Universal resource identifier)
+  simplified: ''
+  traditional: URI (統一資源識別符)
+- en: URI
+  simplified: ''
+  traditional: 統一資源識別符
+- en: upstream/downstream
+  simplified: 上游/下游
+  traditional: 上游/下游
+- en: unspecified
+  simplified: 未指定的
+  traditional: 未指定的
+- en: unparsed entity
+  simplified: 未解析实体
+  traditional: 未剖析實體
+- en: unnamed class
+  simplified: 未命名类
+  traditional: 未命名類別
+- en: universe
+  simplified: 通用的
+  traditional: 全球的、通用的
+- en: union
+  simplified: 联合、合并、（集合的）并
+  traditional: 聯合、合併
+- en: XML document
+  simplified: XML 文档
+  traditional: XML 文件
+- en: XSL transformation (XSLT)
+  simplified: XSL 转换 （XSLT）
+  traditional: XSL 轉換
+- en: WWW
+  simplified: WWW （万维网）
+  traditional: WWW (全球資訊網、萬維網)
+- en: xForms model
+  simplified: XForms 模型
+  traditional: xForms 模式
+- en: xForms processor
+  simplified: xForms 处理器
+  traditional: xForms 處理器
+- en: XLL (eXtensible linking language)
+  simplified: XLL （可扩展链接语言）
+  traditional: XLL (可擴充鏈結語言)
+- en: XML (Extensible markup language)
+  simplified: XML （可扩展标记语言）
+  traditional: XML (可擴充標記語言)
+- en: XML declaration
+  simplified: XML 声明
+  traditional: XML 宣告
+- en: XSL formatting objects (XSL FO)
+  simplified: XSL 格式化对象 （XSL FP）
+  traditional: XSL 格式物件
+- en: XML name
+  simplified: XML 名称
+  traditional: XML 名稱
+- en: XML namespace
+  simplified: XML 命名空间，名字空间
+  traditional: XML 命名空間
+- en: XML processor
+  simplified: XML 处理器
+  traditional: XML 處理器
+- en: xPointer processor
+  simplified: xPointer 处理器
+  traditional: xPointer 處理器
+- en: XSL (Extensible style sheet language)
+  simplified: XSL （可扩展样式表语言）
+  traditional: 可擴充樣式表語言
+- en: zakim
+  simplified: Zakim (W3C IRC机器人）
+  traditional: zakim (W3C 視頻會議)
+- en: zlib
+  simplified: zlib 压缩格式
+  traditional: zlib 壓縮格式
