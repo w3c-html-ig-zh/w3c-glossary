@@ -50,7 +50,7 @@
   traditional: 實踐無障礙創作
 - en: accessiblity
   simplified: 可访问性，（信息）无障碍
-  traditional: 親和力
+  traditional: 親和力、可及性
 - en: accessibility problem
   simplified: 可访问性问题，(信息)无障碍问题
   traditional: 親和力問題、無障礙網頁問題
@@ -578,7 +578,7 @@
   traditional: 內容生成
 - en: Cross-Origin Resource Sharing
   simplified: '<a href="http://www.chinaw3c.org/archives/396/" target="_blank">跨源资源共享</a>'
-  traditional: ''
+  traditional: '跨來源資源共用'
 - en: counters
   simplified: >-
     <a href="http://www.chinaw3c.org/archives/464/"
@@ -586,7 +586,7 @@
   traditional: ''
 - en: CORS (Cross-Origin Resource Sharing)
   simplified: '<a href="http://www.chinaw3c.org/archives/396/" target="_blank">跨源资源共享</a>'
-  traditional: ''
+  traditional: '跨來源資源共用'
 - en: Core-AAM (Core Accessibility API Mapping)
   simplified: >-
     <a href="http://www.chinaw3c.org/archives/539/"
@@ -687,7 +687,7 @@
   traditional: ''
 - en: 'CSV, comma seperated value'
   simplified: 逗号分隔值（一种数据文件格式）
-  traditional: ''
+  traditional: 逗號分隔值
 - en: csv on the web
   simplified: Web CSV数据集
   traditional: ''
@@ -1641,7 +1641,7 @@
   traditional: 鏈結元素
 - en: Mixed Content
   simplified: '<a href="http://www.chinaw3c.org/archives/570/" target="_blank">混合内容</a>'
-  traditional: ''
+  traditional: '混合內容'
 - en: Media stream recording
   simplified: '<a href="http://www.chinaw3c.org/archives/95/" target="_blank">媒体流录制</a>'
   traditional: ''
@@ -2166,7 +2166,7 @@
   traditional: ''
 - en: port
   simplified: 端口
-  traditional: ''
+  traditional: 通訊埠、連接埠
 - en: Polyglot Markup
   simplified: >-
     <a href="http://www.chinaw3c.org/archives/569/   "
@@ -2405,7 +2405,7 @@
   traditional: SMIL (同步多媒體整合語言)
 - en: signature
   simplified: '<a href="http://www.chinaw3c.org/archives/124/" target="_blank">签名，数字签名</a>'
-  traditional: ''
+  traditional: 簽章
 - en: shape
   simplified: '<a href="http://www.chinaw3c.org/archives/463/" target="_blank">（CSS）形状</a>'
   traditional: ''
@@ -2723,7 +2723,7 @@
   traditional: 變形
 - en: tracking protection
   simplified: 追踪保护
-  traditional: ''
+  traditional: 追蹤保護
 - en: tracking preference expression
   simplified: '<a href="http://www.chinaw3c.org/archives/495/" target="_blank">追踪偏好表达</a>'
   traditional: ''
@@ -2770,7 +2770,7 @@
   traditional: ''
 - en: tabular data
   simplified: '<a href="http://www.chinaw3c.org/archives/563/" target="_blank">表格数据</a>'
-  traditional: ''
+  traditional: 表格資料
 - en: subresource integrity
   simplified: '<a href="http://www.chinaw3c.org/archives/462/" target="_blank">子资源完整性</a>'
   traditional: ''
@@ -3117,7 +3117,7 @@
   simplified: >-
     <a href="http://www.chinaw3c.org/archives/490/" target="_blank">WCAG
     (Web内容可访问性指南)</a>
-  traditional: ''
+  traditional: 網頁內容可及性指引
 - en: wake lock
   simplified: '<a href="http://www.chinaw3c.org/archives/594/" target="_blank">唤醒锁</a>'
   traditional: ''
